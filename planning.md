@@ -11,6 +11,8 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+This project focuses on students reviews of CS professors at Austin Community College collected from Rate My Professors. The goal is to build an unofficial guide that helps students find information about teaching style, difficulty, feedback quality, and course experiences by searching and summarizing review content. This knowledge is difficult to find because student experiences are scattered across many individual professor review pages and are not available through official college resources.
+
 ---
 
 ## Documents
