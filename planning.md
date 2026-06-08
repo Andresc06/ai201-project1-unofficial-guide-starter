@@ -22,16 +22,16 @@ This project focuses on students reviews of CS professors at Austin Community Co
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Rate My Professors | Adrian Edmundson reviews | https://www.ratemyprofessors.com/professor/1771010 |
+| 2 | Rate My Professors | David Trevino reviews | https://www.ratemyprofessors.com/professor/1157272 |
+| 3 | Rate My Professors | Femi Onabajo reviews | https://www.ratemyprofessors.com/professor/601010 |
+| 4 | Rate My Professors | Fred Kumi reviews | https://www.ratemyprofessors.com/professor/247118 |
+| 5 | Rate My Professors | Kimberly Jorgenson reviews | https://www.ratemyprofessors.com/professor/1965147 |
+| 6 | Rate My Professors | Murtaza Ally reviews | https://www.ratemyprofessors.com/professor/1229898 |
+| 7 | Rate My Professors | Michael Miller reviews | https://www.ratemyprofessors.com/professor/2037000 |
+| 8 | Rate My Professors | Ralph Hooper reviews | https://www.ratemyprofessors.com/professor/2321388 |
+| 9 | Rate My Professors | Rene Polanco reviews | https://www.ratemyprofessors.com/professor/1011587 |
+| 10 | Rate My Professors | Rudi Martinez reviews | https://www.ratemyprofessors.com/professor/1104237 |
 
 ---
 
