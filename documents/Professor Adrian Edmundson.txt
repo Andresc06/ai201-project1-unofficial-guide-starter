@@ -1,0 +1,286 @@
+Course: COSC1336
+Professor: Adrian Edmundson
+Date: Apr 9th, 2026
+Quality: 3.0
+Difficulty: 2.0
+Review:
+Lectures were mostly reading PowerPoints. Labs graded weeks late, making improvement difficult. One of the better professors, but not the best.
+
+
+Course: COSC1301
+Professor: Adrian Edmundson
+Date: Mar 12th, 2026
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Works with you and easy to pass if you practice and submit on time. Helps even if you fall behind and doesn’t take off points unnecessarily.
+
+
+Course: COSC1336
+Professor: Adrian Edmundson
+Date: Mar 9th, 2026
+Quality: 3.0
+Difficulty: 2.0
+Review:
+Unhelpful via email. Deadlines spaced strangely in a 12‑week course. Units feel disorganized.
+
+
+Course: COSC1336
+Professor: Adrian Edmundson
+Date: Dec 14th, 2025
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Amazing professor. Very understanding with dual‑enrollment students. Funny, nice, and helpful during labs. Would take again.
+
+
+Course: COSC1336
+Professor: Adrian Edmundson
+Date: Aug 6th, 2025
+Quality: 1.0
+Difficulty: 2.0
+Review:
+Took 9‑week class. He graded labs after the semester ended, so no chance to revise. Could have earned an A if grading wasn’t delayed.
+
+
+Course: COSC1336
+Professor: Adrian Edmundson
+Date: May 13th, 2025
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Solid professor. Lectures can be boring, but he teaches through coding examples and labs. Patient, answers questions, and cares about student success.
+
+
+Course: BCIS1305
+Professor: Adrian Edmundson
+Date: Mar 31st, 2025
+Quality: 4.0
+Difficulty: 1.0
+Review:
+Lectures long and boring, but work is easy. Lots of assignments but manageable. Very lenient if something comes up.
+
+
+Course: BCIS1305
+Professor: Adrian Edmundson
+Date: Mar 29th, 2025
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Considerate and often extends deadlines. Some quiz/exam topics come from the textbook, not slides. Exams based on quizzes.
+
+
+Course: COSC1301
+Professor: Adrian Edmundson
+Date: Oct 22nd, 2024
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Good professor. Recommend him.
+
+
+Course: COSC1336
+Professor: Adrian Edmundson
+Date: May 15th, 2024
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Highly recommend for Programming Fundamentals I. Laid back, willing to talk about programming, and very helpful.
+
+
+Course: COSC1336
+Professor: Adrian Edmundson
+Date: May 13th, 2024
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Would take again. Lectures recorded. Goes over material and labs. Available for help and gives positive feedback. Quizzes prepare you for exams.
+
+
+Course: COSC1336
+Professor: Adrian Edmundson
+Date: May 13th, 2024
+Quality: 3.0
+Difficulty: 1.0
+Review:
+Very easy A. Flexible deadlines for quizzes and labs. Tests have real due dates. Class too easy — didn’t learn much. Gives all lab answers in class.
+
+
+Course: COSC1301
+Professor: Adrian Edmundson
+Date: Apr 29th, 2024
+Quality: 1.0
+Difficulty: 1.0
+Review:
+Easy grade but poor teaching. Reads lectures word‑for‑word. Learned more from the platform than from him. Gets frustrated with students who ask questions.
+
+
+Course: COSC1301
+Professor: Adrian Edmundson
+Date: Apr 15th, 2024
+Quality: 2.0
+Difficulty: 3.0
+Review:
+One of the worst professors. Goes too fast, gets upset when asked questions, forgets due dates, and rambles during lectures. Labs left for students to do alone.
+
+
+Course: COSC1301
+Professor: Adrian Edmundson
+Date: Jul 27th, 2023
+Quality: 3.0
+Difficulty: 1.0
+Review:
+Straightforward quizzes, labs, and tests. But he gets verbally frustrated when helping students and has yelled at people. Often seems unsure of the material.
+
+
+Course: COSC1336
+Professor: Adrian Edmundson
+Date: Jun 1st, 2022
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Three tests, eight labs, ten quizzes. Quizzes simple, labs have five attempts, tests easy. Very easy class even for beginners.
+
+
+Course: COSC1336
+Professor: Adrian Edmundson
+Date: Apr 4th, 2022
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Great professor. Willing to help and do one‑on‑one explanations. Highly recommended.
+
+
+Course: COSC1336
+Professor: Adrian Edmundson
+Date: Jan 17th, 2021
+Quality: 3.0
+Difficulty: 3.0
+Review:
+Quizzes unlimited attempts. Tests match quiz content. Must read PowerPoints. Goes over labs in class. Not too bad overall.
+
+
+Course: COSC1315
+Professor: Adrian Edmundson
+Date: May 30th, 2020
+Quality: 4.0
+Difficulty: 2.0
+Review:
+Dry professor. You learn mostly on your own. Quizzes match exams. Labs rough and not well guided.
+
+
+Course: COSC1336
+Professor: Adrian Edmundson
+Date: May 28th, 2020
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Teaches well and helps troubleshoot labs. Very lenient. Quizzes unlimited attempts. Tests based on quizzes. Highly recommended.
+
+
+Course: BCIS1305
+Professor: Adrian Edmundson
+Date: Jun 4th, 2018
+Quality: 5.0
+Difficulty: 2.0
+Review:
+One of the best teachers at ACC. Labs done in class for guaranteed 100. Tests identical to reviews. Very helpful and available.
+
+
+Course: BCIS1305
+Professor: Adrian Edmundson
+Date: Nov 15th, 2017
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Makes teaching fun and helps students understand in every way he can.
+
+
+Course: COSC1301
+Professor: Adrian Edmundson
+Date: May 15th, 2017
+Quality: 3.0
+Difficulty: 1.0
+Review:
+Sweet person but boring lecturer. Doesn’t require attendance. Tests come straight from reviews. Easy A if you study.
+
+
+Course: BCIS1305
+Professor: Adrian Edmundson
+Date: Oct 29th, 2015
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Awesome teacher. Understands students. Fun classes. Easy to pass.
+
+
+Course: BCIS1305
+Professor: Adrian Edmundson
+Date: Oct 29th, 2015
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Very easy and works with you when needed. Highly recommend.
+
+
+Course: BCIS1305
+Professor: Adrian Edmundson
+Date: Oct 29th, 2015
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Great professor. Very accommodating and helpful.
+
+
+Course: 1301
+Professor: Adrian Edmundson
+Date: Jul 30th, 2015
+Quality: 3.5
+Difficulty: 1.0
+Review:
+Very easy class. Study guides and homework guarantee an A. Understanding and flexible.
+
+
+Course: BCIS1305
+Professor: Adrian Edmundson
+Date: Jul 18th, 2013
+Quality: 4.5
+Difficulty: 2.0
+Review:
+Very nice, patient, and helpful. Quizzes and exams easy if you study his summaries.
+
+
+Course: BCIS1305
+Professor: Adrian Edmundson
+Date: Jun 28th, 2013
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Laid back, patient, and knowledgeable. Quizzes and tests well reviewed. Minimal homework.
+
+
+Course: BCIS1305006
+Professor: Adrian Edmundson
+Date: May 20th, 2013
+Quality: 4.0
+Difficulty: 1.0
+Review:
+New professor still figuring out structure, but easy and understanding. Not much outside work.
+
+
+Course: 1301006
+Professor: Adrian Edmundson
+Date: Apr 10th, 2013
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Great professor. Approachable and understanding.
+
+
+Course: COSC1315
+Professor: Adrian Edmundson
+Date: Nov 26th, 2012
+Quality: 3.5
+Difficulty: 2.0
+Review:
+Straightforward. Uses textbook as a guide. Helps explain when needed.

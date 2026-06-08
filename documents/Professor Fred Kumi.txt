@@ -1,0 +1,822 @@
+Course: COSC3365
+Professor: Femi Onabajo
+Date: Apr 15th, 2026
+Quality: 1.0
+Difficulty: 4.0
+Review:
+It is impossible to get a good grade on projects in this class. The professor takes off points for things that were simply never mentioned in the assignment. It's as if he expects you to read his mind. If you can't read minds, then you will never get a good grade on most assignments.
+
+
+Course: ITSE2321
+Professor: Femi Onabajo
+Date: Dec 17th, 2025
+Quality: 1.0
+Difficulty: 5.0
+Review:
+By far the worst instructor at ACC. He takes off points for the slightest things and discourages students in class. Poorly planned lectures, no study material, and exams require coding from scratch. Avoid him if possible.
+
+
+Course: COSC4301
+Professor: Femi Onabajo
+Date: Nov 5th, 2025
+Quality: 3.0
+Difficulty: 5.0
+Review:
+His class will humble you, but you can do it. Follow instructions exactly. Anything he spends more than 10 minutes on will be on the exam. Overprepare and do textbook review exercises.
+
+
+Course: COSC3365
+Professor: Femi Onabajo
+Date: Oct 24th, 2025
+Quality: 1.0
+Difficulty: 5.0
+Review:
+One of the least helpful professors at ACC. Takes forever to grade. Tests on things he thinks you should know, not what he teaches. Instructions unclear.
+
+
+Course: COSC1336
+Professor: Femi Onabajo
+Date: Mar 15th, 2025
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Online class was just a textbook. No slides, no lectures, no chapter guidance. Emailed him once and he never responded.
+
+
+Course: COSC4301
+Professor: Femi Onabajo
+Date: Jan 24th, 2025
+Quality: 4.0
+Difficulty: 4.0
+Review:
+Not an easy professor, but I learned more from him than any other class. His no‑BS attitude helped me become a better programmer. Helpful when needed.
+
+
+Course: ITSE2321
+Professor: Femi Onabajo
+Date: Dec 21st, 2024
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Harder than other CS professors, but in a good way. Tests understanding in unanticipated ways. Best professor to prepare for BAS.
+
+
+Course: COSC4301
+Professor: Femi Onabajo
+Date: Nov 19th, 2024
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Terrible teaching style. Lectures for hours with little help. Constantly says “go read the textbook.” Knocks points off for things not in instructions. Condescending.
+
+
+Course: COSC1336
+Professor: Femi Onabajo
+Date: Nov 18th, 2024
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Not helpful. Refers you to tutors. Doesn’t respond to emails. Would not take again.
+
+
+Course: ITSE2321
+Professor: Femi Onabajo
+Date: Oct 2nd, 2024
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Not helpful. Refers you to tutors. Complains about other professors. Just lectures.
+
+
+Course: ITSE2321
+Professor: Femi Onabajo
+Date: Sep 21st, 2024
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Worst professor. Just lectures, no extra help.
+
+
+Course: ITSE2321
+Professor: Femi Onabajo
+Date: Sep 21st, 2024
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Complains about other professors. Thinks he’s the only expert. Not effective or helpful.
+
+
+Course: COSC1336
+Professor: Femi Onabajo
+Date: May 17th, 2024
+Quality: 1.0
+Difficulty: 5.0
+Review:
+If you have no coding experience, don’t take his class. Unfair grader, unclear instructions. Get a tutor.
+
+
+Course: COSC3365
+Professor: Femi Onabajo
+Date: Mar 7th, 2024
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Horrendous teaching style. Retaliatory when asked questions. Instructions unclear. Exams don’t reflect taught material.
+
+
+Course: COSC4301
+Professor: Femi Onabajo
+Date: Feb 23rd, 2024
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Withholds assignment information. Drops vague hints during long lectures. Will fail assignments even if they meet written criteria. Becomes childish when questioned.
+
+
+Course: COSC4301
+Professor: Femi Onabajo
+Date: Nov 18th, 2023
+Quality: 4.0
+Difficulty: 5.0
+Review:
+Old‑school and no‑nonsense. You will be pushed to your limits but you will learn. High expectations. Two tests make up 50% of grade.
+
+
+Course: ITSE2309
+Professor: Femi Onabajo
+Date: Dec 22nd, 2022
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Better organized than other instructors. Feedback rare. Didn’t round 89.7. Asynchronous class quality varies.
+
+
+Course: ITSE1311
+Professor: Femi Onabajo
+Date: Sep 12th, 2022
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Coding lectures were just reading PPTs and discussing where points would be taken off.
+
+
+Course: ITSE2321
+Professor: Femi Onabajo
+Date: Aug 12th, 2022
+Quality: 2.0
+Difficulty: 5.0
+Review:
+Never responded to emails. Minimal feedback. Would not take again.
+
+
+Course: ITSE2309
+Professor: Femi Onabajo
+Date: Aug 2nd, 2022
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Explains things once and expects you to get it. Sink‑or‑swim style. Thick accent.
+
+Course: ITSE2309
+Professor: Femi Onabajo
+Date: May 23rd, 2022
+Quality: 4.0
+Difficulty: 3.0
+Review:
+He's not perfect for sure, but his classes are clearly structured, and most of the material related to quizzes and labs is easily found in the assigned readings. Some people have issues with communication, but he has always responded promptly to me. Tests can be stressful with heavily weighted coding questions.
+
+
+Course: ITSE2321
+Professor: Femi Onabajo
+Date: May 9th, 2022
+Quality: 5.0
+Difficulty: 4.0
+Review:
+Wealth of professional and academic experience in software engineering. Best introduction to Java. Very strict on definitions and terminology. Emphasizes good programming design and industry expectations. If you want to learn Java and are driven, he's it.
+
+
+Course: COSC1337
+Professor: Femi Onabajo
+Date: Feb 28th, 2022
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Worst professor I've ever had. Took two weeks to reply to a question I asked before an assignment was graded. Left a snarky comment saying “contact me if you need help.”
+
+
+Course: ITSE2309
+Professor: Femi Onabajo
+Date: Dec 13th, 2021
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Homework based on readings. Labs match textbook examples. Exams tough if you don’t study. Not a tough grader; gives partial credit. Helpful during class.
+
+
+Course: ITSE2321
+Professor: Femi Onabajo
+Date: Oct 18th, 2021
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Negative responses to questions or doesn’t answer. Talks about getting fired from jobs. Ridicules other professions. Adds rules after assignments are turned in. Doesn’t grade on time. Avoid.
+
+
+Course: ITSE1345
+Professor: Femi Onabajo
+Date: Jul 11th, 2021
+Quality: 4.0
+Difficulty: 4.0
+Review:
+Knows everything about Oracle PL/SQL. Old‑school professor who makes you work hard but you learn a lot. Exams very difficult. Cannot skip or fall behind.
+
+
+Course: COSC1336
+Professor: Femi Onabajo
+Date: Jun 19th, 2021
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Make sure you have coding experience or you will fail the exams. Tutors know what he wants better than he does. Thinks non‑participation means cheating.
+
+
+Course: ITSE2309
+Professor: Femi Onabajo
+Date: Jun 11th, 2021
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Got a system error on first lab, emailed him three times, no response. Failed the lab because of it. Unacceptable.
+
+
+Course: ITSE1345
+Professor: Femi Onabajo
+Date: May 22nd, 2021
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Did not return assignment grades for up to a month. Exams based on programming assignments. Said he delays grading to prevent cheating. Not acceptable.
+
+
+Course: ITSE1311
+Professor: Femi Onabajo
+Date: May 22nd, 2021
+Quality: 1.0
+Difficulty: 3.0
+Review:
+APT course. Most professors don’t assist with APT courses. Kumi was no different.
+
+
+Course: COSC1336
+Professor: Femi Onabajo
+Date: May 16th, 2021
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Does not teach Python. No coding guidelines. Harsh grading. Projects easy only if you already know Python.
+
+
+Course: COSC1336
+Professor: Femi Onabajo
+Date: Dec 15th, 2020
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Learned more from him than any other CS class at ACC. Respected and fair. Highly recommend.
+
+
+Course: COSC1320
+Professor: Femi Onabajo
+Date: Dec 15th, 2020
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Best programming professor at ACC, hands down.
+
+
+Course: ITSC2337
+Professor: Femi Onabajo
+Date: Dec 15th, 2020
+Quality: 5.0
+Difficulty: 4.0
+Review:
+Much better than other web programming instructors. Cares about students. Better learning experience than alternatives.
+
+
+Course: COSC1336
+Professor: Femi Onabajo
+Date: Dec 14th, 2020
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Tough grader, strict policies, little feedback. Only professor available. Would rather skip the semester than take him again.
+
+
+Course: ITSE2321
+Professor: Femi Onabajo
+Date: Nov 30th, 2020
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Accent sometimes hard to understand, but lectures cover everything needed. PowerPoints are clear. Pandemic tests were open‑book.
+
+
+Course: ITSE2309
+Professor: Femi Onabajo
+Date: Nov 9th, 2020
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Only good if you already know databases. Tests extremely difficult. One test required building a whole database in under 7 minutes.
+
+
+Course: COSC1336
+Professor: Femi Onabajo
+Date: Sep 27th, 2020
+Quality: 1.0
+Difficulty: 2.0
+Review:
+Degrading, rude, hard to understand.
+
+
+Course: COSC1336
+Professor: Femi Onabajo
+Date: Sep 22nd, 2020
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Tutors more helpful than him. Explanations unclear. Claims instructions include things that aren’t there.
+
+
+Course: ITSE2309
+Professor: Femi Onabajo
+Date: Aug 9th, 2020
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Great teacher. One very difficult test question, rest normal. Replaced lowest test grade with highest.
+
+Course: ITSE1311
+Professor: Femi Onabajo
+Date: Feb 24th, 2020
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Mean to the students. Not recommended. Stay away from his classes. You won't learn anything.
+
+
+Course: COSC1336
+Professor: Femi Onabajo
+Date: May 27th, 2019
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Gives many opportunities to ask questions. Goes through example programs which are more helpful than slides. Lectures are boring due to lack of enthusiasm. Extremely strict on grading and formatting. Knows the material well.
+
+
+Course: COSC1336
+Professor: Femi Onabajo
+Date: May 20th, 2019
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Highly recommend. Well‑experienced and prepares you for the real world. Know deadlines, pay attention, and you will pass. Tests heavy on writing programs. Bonus assignments are helpful.
+
+
+Course: ITSE1311
+Professor: Femi Onabajo
+Date: May 17th, 2019
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Awful class. Learned everything on my own. No lecture material and no feedback. Worried about being unprepared for Intermediate Web Development.
+
+
+Course: COSC1315
+Professor: Femi Onabajo
+Date: Mar 15th, 2019
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Lectures monotonous. Counted off for things I didn’t do. Reached out for corrections and got no response. When he explains, he makes you feel foolish and repeats the same confusing explanation.
+
+
+Course: COSC1315
+Professor: Femi Onabajo
+Date: Feb 21st, 2019
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Great professor. Study outside class and ask questions.
+
+
+Course: COSC1315
+Professor: Femi Onabajo
+Date: Feb 21st, 2019
+Quality: 5.0
+Difficulty: 4.0
+Review:
+Accessible in office hours and wants you to understand everything. Stay on top of homework. Recommended.
+
+
+Course: ITSE1311
+Professor: Femi Onabajo
+Date: Jan 2nd, 2019
+Quality: 5.0
+Difficulty: 4.0
+Review:
+Beginning Web Programming was challenging but good. Make sure you have some programming experience before taking him.
+
+
+Course: ITSC1311
+Professor: Femi Onabajo
+Date: Jan 2nd, 2019
+Quality: 3.0
+Difficulty: 4.0
+Review:
+Online book required. Assignments build on each other. Easy grader on assignments. No curve. Final grade was 89.3 and received a B.
+
+
+Course: ITSE2321
+Professor: Femi Onabajo
+Date: Dec 16th, 2018
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Talks constantly about how much he was paid at previous jobs. Class boring and strict. Takes over your computer. Long slide readings. Very strict grading rules. Do not recommend.
+
+
+Course: ITSC2337
+Professor: Femi Onabajo
+Date: Dec 9th, 2018
+Quality: 5.0
+Difficulty: 4.0
+Review:
+Hard classes but job‑relevant. Recent industry experience. Funny stories. Lenient on due dates. Tests often come from homework/book. Getting an A is doable.
+
+
+Course: ITSE1311
+Professor: Femi Onabajo
+Date: Nov 6th, 2018
+Quality: 1.0
+Difficulty: 2.0
+Review:
+Online class with vague instructions. Takes 3+ weeks to grade or respond. Asked a question two weeks before a due date and didn’t get a response until a week after the due date.
+
+
+Course: ITSE1311
+Professor: Femi Onabajo
+Date: Oct 12th, 2018
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Made the class harder than necessary. Takes a week to answer emails. Assignment instructions vague. Scheduled a project before we had done the readings.
+
+
+Course: ITSE1345
+Professor: Femi Onabajo
+Date: May 24th, 2018
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Lectures well organized. Wants students to participate. Uses code examples tied to the topic. If you don’t speak up, he assumes you understand.
+
+
+Course: ITSE2321
+Professor: Femi Onabajo
+Date: May 24th, 2018
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Teaching style based on industry standards. Explains coding examples clearly. Labs and homework not difficult if you read the book. Exams based on the book.
+
+
+Course: ITSE2309
+Professor: Femi Onabajo
+Date: May 24th, 2018
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Accent sometimes difficult, but he tries hard to communicate clearly. Very approachable and helpful. Exams half theory, half coding.
+
+
+Course: COSC1336
+Professor: Femi Onabajo
+Date: May 7th, 2018
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Concerned with students understanding fundamentals. Adjusts pace based on class needs. Highly recommended for first programming language.
+
+
+Course: COSC1337
+Professor: Femi Onabajo
+Date: Jan 3rd, 2018
+Quality: 1.0
+Difficulty: 5.0
+Review:
+He is a poor public speaker.
+
+Course: ITSE1311
+Professor: Femi Onabajo
+Date: Nov 6th, 2018
+Quality: 1.0
+Difficulty: 2.0
+Review:
+I took this class online. The instructions for assignments were lacking in detail. The class itself isn't too difficult if you already know basic programming. Takes 3+ weeks to grade projects or respond to questions. I asked a question two weeks before a major due date and didn’t get a response until a week after the due date.
+
+
+Course: ITSE1311
+Professor: Femi Onabajo
+Date: Oct 12th, 2018
+Quality: 2.0
+Difficulty: 4.0
+Review:
+This professor made the class much harder than it needed to be. Takes a week to answer emails. Assignment instructions vague. Scheduled a project before we had done the readings.
+
+
+Course: ITSE1345
+Professor: Femi Onabajo
+Date: May 24th, 2018
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Lectures well organized. Wants students to participate to ensure understanding. Uses code examples tied to the topic. If you don’t speak up, he assumes you understand.
+
+
+Course: ITSE2321
+Professor: Femi Onabajo
+Date: May 24th, 2018
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Teaching style based on industry standards. Explains coding examples clearly. Labs and homework not difficult if you read the book. Exams based on the book.
+
+
+Course: ITSE2309
+Professor: Femi Onabajo
+Date: May 24th, 2018
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Accent sometimes difficult, but he tries hard to communicate clearly. Very approachable and helpful. Exams half theory, half coding.
+
+
+Course: COSC1336
+Professor: Femi Onabajo
+Date: May 7th, 2018
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Concerned with students understanding fundamentals. Adjusts pace based on class needs. Highly recommended for someone taking their first programming language.
+
+
+Course: COSC1337
+Professor: Femi Onabajo
+Date: Jan 3rd, 2018
+Quality: 1.0
+Difficulty: 5.0
+Review:
+He is a poor public speaker.
+
+
+Course: ITSE2309
+Professor: Femi Onabajo
+Date: Dec 9th, 2018
+Quality: 5.0
+Difficulty: 4.0
+Review:
+Taken several of his classes. They’re hard and require a lot of work, but everything is job‑relevant. Has recent industry experience and funny stories. Can be lenient on due dates. Test questions often come from homework or the book.
+
+
+Course: ITSE1311
+Professor: Femi Onabajo
+Date: Nov 6th, 2018
+Quality: 1.0
+Difficulty: 2.0
+Review:
+Online class with vague instructions. Takes weeks to respond. Asked a question two weeks before a due date and didn’t get a response until after the due date.
+
+
+Course: ITSE1311
+Professor: Femi Onabajo
+Date: Oct 12th, 2018
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Made the class harder than necessary. Takes a week to answer emails. Assignment instructions vague. Scheduled a project before we had done the readings.
+
+
+Course: ITSE1345
+Professor: Femi Onabajo
+Date: May 24th, 2018
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Lectures well organized. Wants students to participate. Uses code examples tied to the topic. If you don’t speak up, he assumes you understand.
+
+
+Course: ITSE2321
+Professor: Femi Onabajo
+Date: May 24th, 2018
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Teaching style based on industry standards. Explains coding examples clearly. Labs and homework not difficult if you read the book. Exams based on the book.
+
+
+Course: ITSE2309
+Professor: Femi Onabajo
+Date: May 24th, 2018
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Accent sometimes difficult, but he tries hard to communicate clearly. Very approachable and helpful. Exams half theory, half coding.
+
+
+Course: COSC1336
+Professor: Femi Onabajo
+Date: May 7th, 2018
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Concerned with students understanding fundamentals. Adjusts pace based on class needs. Highly recommended for someone taking their first programming language.
+
+
+Course: COSC1337
+Professor: Femi Onabajo
+Date: Jan 3rd, 2018
+Quality: 1.0
+Difficulty: 5.0
+Review:
+He is a poor public speaker.
+
+
+Course: ITSE2309
+Professor: Femi Onabajo
+Date: Dec 9th, 2018
+Quality: 5.0
+Difficulty: 4.0
+Review:
+Taken several of his classes. They’re hard and require a lot of work, but everything is job‑relevant. Has recent industry experience and funny stories. Can be lenient on due dates. Test questions often come from homework or the book.
+
+
+Course: ITSE1311
+Professor: Femi Onabajo
+Date: Nov 6th, 2018
+Quality: 1.0
+Difficulty: 2.0
+Review:
+Online class with vague instructions. Takes weeks to respond. Asked a question two weeks before a due date and didn’t get a response until after the due date.
+
+
+Course: ITSE1311
+Professor: Femi Onabajo
+Date: Oct 12th, 2018
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Made the class harder than necessary. Takes a week to answer emails. Assignment instructions vague. Scheduled a project before we had done the readings.
+
+
+Course: ITSE1345
+Professor: Femi Onabajo
+Date: May 24th, 2018
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Lectures well organized. Wants students to participate. Uses code examples tied to the topic. If you don’t speak up, he assumes you understand.
+
+
+Course: ITSE2321
+Professor: Femi Onabajo
+Date: May 24th, 2018
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Teaching style based on industry standards. Explains coding examples clearly. Labs and homework not difficult if you read the book. Exams based on the book.
+
+Course: COSC1336
+Professor: Femi Onabajo
+Date: Apr 26th, 2014
+Quality: 4.0
+Difficulty: 2.0
+Review:
+Has a thick accent — must pay attention. Doesn’t use the same terminology as the book. Very helpful, positive, and encouraging. Cares about student success. Knows the material thoroughly despite the communication barrier. Easy grader. Show up, participate, and pay attention. Reviews match the type of questions on the test.
+
+
+Course: ITNW2405
+Professor: Femi Onabajo
+Date: Feb 24th, 2014
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Unorganized chaos. Doesn’t know how to teach and doesn’t make sense. Feels like a long‑distance course with a teacher who confuses you.
+
+
+Course: ITNW1325
+Professor: Femi Onabajo
+Date: Dec 16th, 2013
+Quality: 1.5
+Difficulty: 3.0
+Review:
+Very nice guy, but very unhelpful. Hard to understand him, and tests were very hard.
+
+
+Course: ITSC1307
+Professor: Femi Onabajo
+Date: Nov 21st, 2013
+Quality: 2.0
+Difficulty: 2.0
+Review:
+Unique teaching style. Writes rough outlines of scripts with many syntax errors and expects students to fix them. Encourages teamwork. Textbook is poor; better references exist for Unix.
+
+
+Course: ITNW2405001
+Professor: Femi Onabajo
+Date: May 1st, 2013
+Quality: 1.0
+Difficulty: 1.0
+Review:
+Absolute worst professor I’ve ever had. Doesn’t teach anything. Faked my way through the entire course. Do not recommend.
+
+
+Course: COSC1312
+Professor: Femi Onabajo
+Date: Sep 18th, 2012
+Quality: 2.0
+Difficulty: 5.0
+Review:
+Very hard to understand accent. Speeds through lectures, making note‑taking difficult. Covers advanced topics not in the book. Volunteers students to do problems on the board. Do not take.
+
+
+Course: COSC1315
+Professor: Femi Onabajo
+Date: May 23rd, 2012
+Quality: 4.5
+Difficulty: 3.0
+Review:
+Once you get past his accent, he’s funny, smart, and articulate. Will make you laugh and teach you everything you need to know about computers. One of my most fun classes.
+
+
+Course: COSC1315
+Professor: Femi Onabajo
+Date: Aug 10th, 2011
+Quality: 3.5
+Difficulty: 1.0
+Review:
+Often late, leaves class to take phone calls, borrows students’ books and pencils. Class is all over the place but easy. Didn’t learn much but got an easy A.
+
+
+Course: COSC1315
+Professor: Femi Onabajo
+Date: May 18th, 2011
+Quality: 4.5
+Difficulty: 2.0
+Review:
+Good teacher, hard to understand but helps each student individually. Often late but still easy to get an A if you read the book.
+
+
+Course: ITNW2405
+Professor: Femi Onabajo
+Date: May 9th, 2011
+Quality: 2.0
+Difficulty: 2.0
+Review:
+Easy A. Only 1–2 tests. Multiple‑choice questions copied from the textbook. Often late. Won’t learn anything useful. Not worth it.
+
+
+Course: ITNW2321
+Professor: Femi Onabajo
+Date: May 9th, 2011
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Absolutely useless. Hard to understand. Always late and unprepared. Borrows students’ books. Doesn’t know the material and gives wrong information. Lectures come straight from textbook PowerPoints.
+
+
+Course: ITSE1300
+Professor: Femi Onabajo
+Date: Jan 19th, 2011
+Quality: 3.0
+Difficulty: 3.0
+Review:
+Good but hard to understand.
+
+
+Course: ITNW1325
+Professor: Femi Onabajo
+Date: Aug 2nd, 2010
+Quality: 4.5
+Difficulty: 2.0
+Review:
+Thick accent but great teacher. If you apply yourself and read the textbook, you will do fine. Will help you if he sees you trying. Don’t be lazy.
+
+
+Course: COSC1315
+Professor: Femi Onabajo
+Date: Jun 20th, 2010
+Quality: 4.0
+Difficulty: 2.0
+Review:
+Thick accent and doesn’t relate much to the book. If you read ahead, lectures make more sense. You must be careful and attentive.

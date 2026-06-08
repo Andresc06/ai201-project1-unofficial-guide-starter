@@ -1,0 +1,894 @@
+Course: BCIS1305
+Professor: Rene Polanco
+Date: May 25th, 2026
+Quality: 5.0
+Difficulty: 2.0
+Review:
+He goes over everything in the chapters during lecture. He gives you everything you need to do well.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Sep 24th, 2025
+Quality: 5.0
+Difficulty: 1.0
+Review:
+If you pay attention, this class is easy.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: May 22nd, 2025
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Made A’s on assignments and B’s on tests, but missed one test and failed the class. Refused extra credit or retake. Takes huge points off for using common programming methods like break and return.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Apr 22nd, 2025
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Worst online professor I’ve had. Absurd grading criteria. Forces you to write worse code if you already know the material. Docks points for any deviation from his exact style.
+
+
+Course: COSC1301
+Professor: Rene Polanco
+Date: Nov 29th, 2023
+Quality: 2.0
+Difficulty: 1.0
+Review:
+Class is easy, but his attitude and teaching style are unpleasant. Only attended once and still passed with an A.
+
+
+Course: COSC1301
+Professor: Rene Polanco
+Date: Aug 31st, 2023
+Quality: 2.0
+Difficulty: 3.0
+Review:
+Shows something once and expects you to get it. Seems burned out. Better off using tutors or classmates for help.
+
+
+Course: COSC1301
+Professor: Rene Polanco
+Date: May 16th, 2023
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Boring class, mostly reading the textbook. Poor and inconsistent feedback. Almost no help online. Expensive textbook required.
+
+
+Course: COSC1315
+Professor: Rene Polanco
+Date: May 10th, 2023
+Quality: 2.0
+Difficulty: 5.0
+Review:
+Impossible to interact with. No announcements or updates all semester. Textbook is actually two books but he never mentions it. Very confusing.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Dec 12th, 2022
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Very strict from day one. No introductions, just dives into lectures. Not helpful.
+
+
+Course: COSC1301
+Professor: Rene Polanco
+Date: Oct 16th, 2022
+Quality: 2.0
+Difficulty: 1.0
+Review:
+Professor is okay but class is extremely easy. Stopped attending after a week and still got an A+.
+
+
+Course: BCIS1305
+Professor: Rene Polanco
+Date: Aug 21st, 2022
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Poor instructions. Lost points on a tutorial despite following the video exactly. No clear explanation of what was wrong.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jun 30th, 2022
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Creates functional programs but he finds anything to deduct points for. Inconsistent grading. Takes off points multiple times for the same issue.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jun 30th, 2022
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Labs graded extremely harshly. Simple labs have “gotcha” requirements. No resubmissions allowed. Tests easy but labs destroy your grade.
+
+
+Course: COSC1301
+Professor: Rene Polanco
+Date: May 23rd, 2022
+Quality: 1.0
+Difficulty: 1.0
+Review:
+One of the worst experiences at ACC. Easy class but his teaching style is rude and short-tempered. Makes students feel stupid for asking questions.
+
+
+Course: COSC1315
+Professor: Rene Polanco
+Date: Mar 3rd, 2022
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Avoid. Doesn’t reply to emails. Harsh grader. Doesn’t care about student issues. Never responded about missing textbook.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Dec 9th, 2021
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Doesn’t explain why points were taken off. Tests are code memorization. Takes points off for anything he can find.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Aug 4th, 2021
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Bad.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Aug 2nd, 2021
+Quality: 1.0
+Difficulty: 4.0
+Review:
+No compassion for tech issues or life circumstances. Counts off for everything. Failed an assignment because 1–2 parts didn’t work even though most did.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: May 13th, 2021
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Criticizes instead of teaching. No helpful explanations. Tests are memorization. Lectures useless. Learn from the book instead.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Apr 19th, 2021
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Subtracts points for things not in instructions. PowerPoints are word-for-word from the book. Grading criteria unclear. Slow or no email responses. Avoid.
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Apr 6th, 2021
+Quality: 5.0
+Difficulty: 4.0
+Review:
+Polanco lectures and also has students actively working through programming. Not a class you can skip. Assignments are challenging but you come out stronger. You never feel unsupported.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Apr 2nd, 2021
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Tutors say his assignments teach “the wrong way.” Hard to contact, arbitrary grading, random test questions. Worst academic experience ever.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Mar 24th, 2021
+Quality: 4.0
+Difficulty: 4.0
+Review:
+Not enough small homework to fully grasp concepts. He will answer questions after class. Recommend studying Python beforehand. Dedicate daily time.
+
+
+Course: COSC1301
+Professor: Rene Polanco
+Date: Jan 22nd, 2021
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Dropped on the first day. Rude, abrasive, berated students for asking questions. Reviews online confirmed the experience.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jan 14th, 2021
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Teaches nothing; you learn from the textbook. Emails go unanswered. Merciless grader. Tutors warn students away from him.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Dec 21st, 2020
+Quality: 1.0
+Difficulty: 4.0
+Review:
+“My way or the highway” teaching. Vague assignments, endless mistakes, no help. Spent 30 hours a week self‑teaching. Learned more from Coursera.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Nov 18th, 2020
+Quality: 2.0
+Difficulty: 3.0
+Review:
+Rude remarks in grade comments. Instructions unclear. Only half of email questions answered. Very hands‑off online course.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Nov 9th, 2020
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Worst professor I’ve ever had. Condescending, rude, unprofessional. Confuses insults with constructive criticism. Work itself is fine; he is not.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jul 31st, 2020
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Unhelpful, tough, slow grader. Assignments due Friday nights. Knows nothing about programming; sends you back to the textbook. Waste of time and money.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jun 2nd, 2020
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Do not choose him for programming. He doesn’t teach; you just memorize code for tests.
+
+
+Course: BUSI006
+Professor: Rene Polanco
+Date: Feb 11th, 2020
+Quality: 2.0
+Difficulty: 5.0
+Review:
+Read material at home, then come to class to hear the same thing. Felt pointless. Learned everything alone.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jan 28th, 2020
+Quality: 5.0
+Difficulty: 4.0
+Review:
+Online course. Responds promptly with clear explanations. Exams based on textbook. No trick questions. Great instructor.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Sep 15th, 2019
+Quality: 1.0
+Difficulty: 1.0
+Review:
+Worst professor imaginable. Instructions unclear. Takes off huge points for misinterpreting vague assignments. Doesn’t care if you learn.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Aug 13th, 2019
+Quality: 3.0
+Difficulty: 4.0
+Review:
+Online class. Warns about time commitment. Would prefer more prompt grading and extra credit. Prefers code with lots of comments and aesthetics.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jun 26th, 2019
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Docked points for “not following instructions” that weren’t there. Claims “professional etiquette” while penalizing real‑world coding practices.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jun 10th, 2019
+Quality: 1.0
+Difficulty: 3.0
+Review:
+First time in college. Professor vague and unhelpful. Wants things not described in the book. Felt lost the whole time.
+
+
+Course: COSC1301
+Professor: Rene Polanco
+Date: May 20th, 2019
+Quality: 2.0
+Difficulty: 2.0
+Review:
+Online class in SAM 2016. Orientation unclear. Had to reach out constantly for help; replies vague. Hard to get answers.
+
+
+Course: BCIS1305
+Professor: Rene Polanco
+Date: May 16th, 2019
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Online class was great. McGraw Connect book easy to use. Projects for Office apps were easy to learn.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Apr 27th, 2019
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Instructions vague, then he takes off major points for things he claims were in the instructions but weren’t. Book only gets you halfway through labs.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Apr 12th, 2019
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Read entire chapters, took notes, watched lectures. Still lost points for things not in instructions. Labs extremely harshly graded.
+
+Course: BCIS1305
+Professor: Rene Polanco
+Date: Dec 18th, 2018
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Good professor. Make sure you know how to use Blackboard because everything is submitted there. Read the book on Blackboard; tests are based on it. Must check due dates yourself because he won’t remind you.
+
+
+Course: BCIS1305
+Professor: Rene Polanco
+Date: Dec 12th, 2018
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Poor email response. Uses SIMnet, which is buggy and can cause you to lose points. Lots of homework and test-heavy.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Oct 15th, 2018
+Quality: 5.0
+Difficulty: 4.0
+Review:
+First time writing code. After graduating, got a job using Python daily. Polanco respects students who work hard. Study extra and you’ll benefit long-term.
+
+
+Course: BCIS1305
+Professor: Rene Polanco
+Date: Sep 11th, 2018
+Quality: 1.0
+Difficulty: 4.0
+Review:
+No patience with students and very rude.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Sep 9th, 2018
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Experienced programmer found class easy, but beginners would struggle. Material vague. Efficient code was penalized because it didn’t match his style.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jul 29th, 2018
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Summer online class. Labs confusing; expect to visit tutors. Learn mostly on your own. Tests difficult. Not unfair, but not helpful.
+
+
+Course: COSC1315
+Professor: Rene Polanco
+Date: Jun 16th, 2018
+Quality: 5.0
+Difficulty: 5.0
+Review:
+Best.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Mar 30th, 2018
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Labs too heavy for beginners. Expects decades of experience from new students. Discourages students and makes them rethink their major.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Mar 10th, 2018
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Expects students to understand lectures instantly. Thinks everything is easy because he’s done it for decades. Not beginner-friendly.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Feb 17th, 2018
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Terrible professor. You’re on your own for labs. Doesn’t teach, sarcastic, not supportive.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Dec 15th, 2017
+Quality: 1.0
+Difficulty: 5.0
+Review:
+RUN. Labs are on your own. Lectures are just PowerPoint examples from the book. Book only gets you halfway through labs. Very hard for beginners.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Dec 13th, 2017
+Quality: 2.0
+Difficulty: 3.0
+Review:
+Assignments 95% based on the book, but instructions vague. Responds to emails but rarely clarifies confusion. Easy B if you already know programming.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jun 1st, 2017
+Quality: 4.0
+Difficulty: 3.0
+Review:
+PowerPoints straight from the textbook. Labs difficult but he gives lab time to ask questions. Tests easier. He tries to help students understand.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Feb 8th, 2017
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Terrible teacher. Slow, sarcastic email responses. Docks points for unclear instructions. Very poor teaching ability.
+
+
+Course: COMP1301
+Professor: Rene Polanco
+Date: Feb 8th, 2017
+Quality: 1.0
+Difficulty: 3.0
+Review:
+He’s not even good.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Nov 26th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+You must read his mind to get an A. Instructions unclear. Sarcastic responses. Not worth taking.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Nov 7th, 2016
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Unorganized. Lectures are just reading PowerPoints. No extra credit. Tough grader. Makes programming more complicated than it should be.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Nov 1st, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Lectures straight from the textbook. Expects code to look exactly like his. Tough grader. Little practice time; mostly lecture.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Oct 5th, 2016
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Even if your code works exactly as required, you’ll be docked if it’s not in his preferred style. Many methods to solve problems, but he only accepts one.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Oct 5th, 2016
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Online class. Code must match his exact expectations or you lose points. Many valid solutions are rejected.
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Oct 5th, 2016
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Although your code works exactly as described, you will be docked if it’s not in his preferred style. Many valid methods exist, but he only accepts one.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Oct 5th, 2016
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Online class. Code must match his exact expectations or you lose points. Many correct solutions are rejected.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Sep 28th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Very unclear instructions. Grades harshly. Doesn’t explain what you did wrong. You’re left guessing.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Sep 20th, 2016
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Assignments are vague and confusing. He expects you to know things not covered in the book. Not beginner-friendly.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Aug 30th, 2016
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Lectures are just reading the book. Labs extremely difficult. No real teaching. Avoid.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Aug 18th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Harsh grader. Doesn’t explain why points were taken off. Very little help provided.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jul 29th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+You must follow his exact coding style or lose points. Even if your code works perfectly, he deducts for style differences.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jul 18th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Not helpful at all. Doesn’t answer questions clearly. Expects you to figure everything out alone.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jun 30th, 2016
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Very tough grader. Labs extremely heavy. Not recommended for beginners.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jun 14th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Lectures are useless. Labs are confusing. You will spend hours googling.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: May 29th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Does not explain anything. Just reads slides. Labs are unclear and overly strict.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: May 10th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Very rude and impatient. Makes students feel dumb for asking questions.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Apr 28th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Assignments vague. Tests difficult. No help from professor. Avoid.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Apr 12th, 2016
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Harsh grader. Expects perfection. Doesn’t teach well. Not recommended.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Mar 30th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Lectures are just reading the book. Labs are extremely difficult. No support.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Mar 15th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Very unclear instructions. Grades harshly. Doesn’t explain mistakes.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Feb 28th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Not helpful. Doesn’t answer emails. Labs too difficult for beginners.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Feb 10th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+You will learn nothing from him. Teaches straight from the book. Harsh grader.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jan 29th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Very tough grader. No explanations. Labs extremely confusing.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jan 12th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Avoid. Doesn’t teach. Grades harshly. Instructions unclear.
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Oct 5th, 2016
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Although your code works completely as described, you will be docked if it is not exactly in his preferred style. Many valid solutions exist, but he only accepts one.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Oct 5th, 2016
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Online class. Even if your code is correct, you lose points if it doesn’t match his exact formatting or structure.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Sep 28th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Instructions unclear. Harsh grader. Doesn’t explain what you did wrong. Leaves you guessing.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Sep 20th, 2016
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Assignments vague and confusing. Expects knowledge not covered in the book. Not beginner-friendly at all.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Aug 30th, 2016
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Lectures are just reading from the book. Labs extremely difficult. No real teaching. Avoid.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Aug 18th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Harsh grader. Doesn’t explain deductions. Very little help provided.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jul 29th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Must follow his exact coding style or lose points. Even perfect code gets deductions for style differences.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jul 18th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Not helpful. Doesn’t answer questions clearly. Expects you to figure everything out alone.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jun 30th, 2016
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Very tough grader. Labs extremely heavy. Not recommended for beginners.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jun 14th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Lectures useless. Labs confusing. You will spend hours googling.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: May 29th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Does not explain anything. Just reads slides. Labs unclear and overly strict.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: May 10th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Very rude and impatient. Makes students feel dumb for asking questions.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Apr 28th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Assignments vague. Tests difficult. No help from professor. Avoid.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Apr 12th, 2016
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Harsh grader. Expects perfection. Doesn’t teach well. Not recommended.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Mar 30th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Lectures are just reading the book. Labs extremely difficult. No support.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Mar 15th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Very unclear instructions. Grades harshly. Doesn’t explain mistakes.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Feb 28th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Not helpful. Doesn’t answer emails. Labs too difficult for beginners.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Feb 10th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+You will learn nothing from him. Teaches straight from the book. Harsh grader.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jan 29th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Very tough grader. No explanations. Labs extremely confusing.
+
+
+Course: COSC1336
+Professor: Rene Polanco
+Date: Jan 12th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Avoid. Doesn’t teach. Grades harshly. Instructions unclear.

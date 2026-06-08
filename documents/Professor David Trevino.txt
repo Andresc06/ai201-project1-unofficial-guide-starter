@@ -1,0 +1,509 @@
+Course: ITSE2356
+Professor: David Trevino
+Date: Dec 19th, 2025
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Avoid him at all cost. You won’t learn anything. Exam and quiz questions are confusing and difficult.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Dec 14th, 2025
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Nothing more to say than what other ratings already state. Do not take a course taught by him.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Mar 12th, 2025
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Absolutely awful teacher. Teaching methods feel punitive. ACC needs a better replacement for database programming. Do not take his class.
+
+
+Course: ITSC2264
+Professor: David Trevino
+Date: Feb 12th, 2025
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Worst professor I’ve ever had. No syllabus, no plan, no meaningful content. Rants about random political topics. Avoid at all costs.
+
+
+Course: ITSE1345
+Professor: David Trevino
+Date: Dec 28th, 2024
+Quality: 1.0
+Difficulty: 4.0
+Review:
+More interested in finding small mistakes and accusing students of cheating than teaching. Lectures tedious and meandering. Inaccessible for questions.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Nov 11th, 2024
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Never responds to emails. Disorganized. Assignments missing. Tests cover obscure book details. Allegedly protected by department chair.
+
+
+Course: COCS1301
+Professor: David Trevino
+Date: Oct 28th, 2024
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Does not communicate outside class. Instructions and due dates unclear. Weekly meetings useless. Requires IPO and flowchart for every submission.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Aug 5th, 2024
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Ungodly amount of reading and homework. Teaches almost exclusively from textbook. Only three labs. Grading criteria inconsistent and unfair.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Jul 14th, 2024
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Worst professor I’ve had. Made me question my degree path. No one learned anything. Only way to succeed is complete self‑study.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Feb 23rd, 2024
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Outdated and confusing course. Least creative teaching style. Minimal concern for students. Only difficulty is his lack of effort.
+
+
+Course: ITSE1345
+Professor: David Trevino
+Date: Dec 16th, 2023
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Required to read and test on two textbooks. Assignment schedule nonsensical. No useful feedback. Confusing lab instructions. 20+ hours per week of work.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Oct 25th, 2023
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Worst teacher I’ve ever had. Excessive reading and memorizing. Egocentric and useless classes. ACC aware but won’t remove him. Only 7 of 24 students finished.
+
+
+Course: ITSE1345
+Professor: David Trevino
+Date: Mar 30th, 2023
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Syllabus outdated and unorganized. Tests and quizzes full of grammar errors. Instructions unclear. Contacted department heads. Avoid if possible.
+
+
+Course: ITSE1345
+Professor: David Trevino
+Date: Nov 21st, 2022
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Does not teach. Grades based on unrelated questions. Grades based on opinion. Emails ignored. Assignments full of errors.
+
+
+Course: ITSE1345
+Professor: David Trevino
+Date: Sep 8th, 2022
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Never replies to emails. Assignments long, unorganized, and unnecessarily difficult. Deters students from using Oracle. Worst teacher ever.
+
+
+Course: ITSE1345
+Professor: David Trevino
+Date: Sep 8th, 2022
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Overcomplicates everything. Told a student they were using their father’s death as a crutch. Egotistical and lacks empathy. Stay away.
+
+
+Course: ITSE1345
+Professor: David Trevino
+Date: May 23rd, 2022
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Blackboard navigation nightmare. Material full of typos. Tests stressful. Communication rough. Labs long. Only redeeming quality: labs allow two attempts.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: May 13th, 2022
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Assignments long and require reading two large textbooks. Online material outdated. Exams too long and time limits strict.
+
+
+Course: ITSE2356
+Professor: David Trevino
+Date: Mar 12th, 2022
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Major assignment instructions consisted of one sentence: “Task: Understanding old habits.” Comically disorganized. Worst teacher I’ve ever had.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Jan 24th, 2022
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Most chaotic class I’ve taken. Exams and assignments disappear and reappear. Instructions unclear. Exams 60 questions in 45 minutes. Quizzes easy.
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Jan 23rd, 2022
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Instructions and course material scattered everywhere. Video tutorials outdated. Required scripts not located where instructions say. Self‑paced class with unclear instructions.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Nov 16th, 2021
+Quality: 1.0
+Difficulty: 1.0
+Review:
+Self‑paced class with tons of reading and regurgitation. Professor never responds to emails. Miscommunication with TA. Labs and homework contain errors. Avoid.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Aug 5th, 2021
+Quality: 2.0
+Difficulty: 3.0
+Review:
+Lots of reading. First week intense, then manageable. Deadlines flexible. Mostly do‑it‑yourself class. Quizzes easy from test bank.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Jul 13th, 2021
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Dropped student for not replying to a recruiter’s email. Later gave illogical grades despite 100% completion. Poor communicator and unsympathetic.
+
+
+Course: ITSE1345
+Professor: David Trevino
+Date: Mar 31st, 2021
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Emails cryptic with grammar errors. Blackboard confusing. Three textbooks required. Timed quizzes with little time. Zero feedback on assignments.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Jan 14th, 2021
+Quality: 2.0
+Difficulty: 3.0
+Review:
+Most chaotic class ever. Exams and assignments disappear and reappear. Instructions unclear. Exams 60 questions in 45 minutes. Quizzes easy.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Dec 17th, 2020
+Quality: 1.0
+Difficulty: 1.0
+Review:
+Instructions overly complicated. Professor slow to respond. Very test‑heavy. Uses outdated textbooks. Oracle programmers laughed at the class materials.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Aug 7th, 2020
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Awful. Learned more in 3 hours on Codecademy than a whole semester here. No feedback, no communication, unclear instructions, outdated videos and labs.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: May 21st, 2020
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Internship class. Followed guidelines and still got a B because an employer info page wasn’t filled. Shows no care for students.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: May 20th, 2020
+Quality: 1.0
+Difficulty: 4.0
+Review:
+No engagement with online students. Final grade calculations unclear. Labs outdated. Entirely self‑taught class. Professor acts as a test moderator only.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: May 4th, 2020
+Quality: 4.0
+Difficulty: 4.0
+Review:
+Straightforward if you follow syllabus and keep up. Read chapters, do labs, study quizzes. Not hard if you stay ahead.
+
+
+Course: ITSC2264
+Professor: David Trevino
+Date: Dec 20th, 2019
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Internship course. Professor unprofessional. Never responds to emails. Syllabus full of typos. Sets a terrible example for students.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Aug 27th, 2019
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Pedagogically unsound. Materials full of typos. Won’t clarify anything. Most frustrating academic experience ever.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: May 12th, 2019
+Quality: 2.0
+Difficulty: 5.0
+Review:
+Blackboard a mess. Takes multiple readings to understand assignments. Labs easy if you try. Impossible to get answers via email.
+
+
+Course: COCS1301
+Professor: David Trevino
+Date: Apr 5th, 2019
+Quality: 3.0
+Difficulty: 2.0
+Review:
+Open‑book tests. Projects for Word, Excel, Access, PowerPoint. Lectures go off on tangents but otherwise manageable.
+
+
+Course: ITSE1345
+Professor: David Trevino
+Date: Nov 28th, 2018
+Quality: 4.0
+Difficulty: 3.0
+Review:
+ITSE 1345 is an extension of ITSE 2309. Lots of quizzes and assignments. Exams very hard. Flexible if you have a life.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Nov 7th, 2018
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Lots of typos and disorganized material. Content from many sources, not cohesive. Grades quickly but gives no feedback.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Jul 24th, 2018
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Summer class. Do all quizzes early. Labs mostly from book. Professor does not answer questions. Labs can be submitted as screenshots.
+
+
+Course: ITSE1345
+Professor: David Trevino
+Date: Jun 13th, 2018
+Quality: 1.0
+Difficulty: 5.0
+Review:
+80% of testing due in first two weeks. Confusing text. Heavy workload. Very stressful and unclear.
+
+
+Course: COSC1300
+Professor: David Trevino
+Date: May 21st, 2018
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Worst option. Instructions unclear. Exams confusing. Tells unrelated stories. Only take as last resort.
+
+Course: COCS1301
+Professor: David Trevino
+Date: Jan 11th, 2018
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Lectures filled with unrelated personal stories. Study guides are just page numbers. Never answered emails. Didn’t follow syllabus, deadlines unclear.
+
+
+Course: ITSE1345
+Professor: David Trevino
+Date: Oct 2nd, 2017
+Quality: 1.0
+Difficulty: 2.0
+Review:
+Does not like to help students. Heavy workload and many papers.
+
+
+Course: ITSE2356
+Professor: David Trevino
+Date: Jul 10th, 2017
+Quality: 1.0
+Difficulty: 2.0
+Review:
+Quiz material didn’t match readings. Course seemed rewritten without updating Blackboard. Final project worthwhile but feedback nonexistent.
+
+
+Course: ITSE1345
+Professor: David Trevino
+Date: Jun 1st, 2016
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Would benefit from assignment feedback, but none provided. Labs not graded thoroughly. Poor communication. Exams and labs not aligned with textbook.
+
+
+Course: ITSE1345
+Professor: David Trevino
+Date: May 12th, 2016
+Quality: 1.0
+Difficulty: 4.0
+Review:
+No feedback on assignments. Only takes classes with him because no one else teaches the material.
+
+
+Course: COCS1301
+Professor: David Trevino
+Date: May 9th, 2016
+Quality: 2.0
+Difficulty: 5.0
+Review:
+Nice guy but lacks teaching skills. Lectures long and dull. Poor communication. Class self‑taught with many projects and disorganized assignments.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Apr 6th, 2016
+Quality: 2.0
+Difficulty: 3.0
+Review:
+Lots of reading and quizzes. Allows notes on tests. Slow to respond to emails.
+
+
+Course: ITSE2356
+Professor: David Trevino
+Date: Apr 1st, 2016
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Class full of busywork that doesn’t contribute to learning. Self‑taught course. Professor never answers emails. Must memorize tons of information.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Dec 14th, 2015
+Quality: 2.0
+Difficulty: 3.0
+Review:
+So much reading and so many quizzes. Labs useful only early in semester. Hardest part was installing Oracle with little support.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Sep 19th, 2014
+Quality: 2.5
+Difficulty: 3.0
+Review:
+Materials not well prepared or organized. Overall structure decent. May not answer email, but helpful in person.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: May 12th, 2014
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Completely self‑taught class. Professor no help. Last lab contained errors in provided code. Communication nonexistent.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Jan 29th, 2014
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Very poor writing and speaking skills. Everything harder than necessary due to unclear communication.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Oct 11th, 2013
+Quality: 1.0
+Difficulty: 5.0
+Review:
+At least one wrong answer per quiz. Terrible writing skills. Provided incorrect Oracle data. Never warned students to check for errors.
+
+
+Course: ITSE2309
+Professor: David Trevino
+Date: Dec 7th, 2012
+Quality: 1.0
+Difficulty: 1.0
+Review:
+Knows the material but cannot teach it. Reads slides and tells unrelated anecdotes. Had to read textbook cover‑to‑cover to survive.
+
+
+Course: BCSI1305
+Professor: David Trevino
+Date: Dec 6th, 2012
+Quality: 4.5
+Difficulty: 2.0
+Review:
+Fun teacher. Work easy if you stay on top of it. Tests not hard and allows time to look up answers. Great sense of humor.
+
+
+Course: BCIS1301
+Professor: David Trevino
+Date: Aug 10th, 2010
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Not helpful. No hands‑on work. Doesn’t explain expectations clearly. Allows 10 minutes to compare answers after tests.
+
+
+Course: COSC1300
+Professor: David Trevino
+Date: Dec 10th, 2008
+Quality: 2.5
+Difficulty: 4.0
+Review:
+Covers lots of material you won’t care about. Grading system poor. Requires labs and outside project. Bonus questions and group answer review after tests.

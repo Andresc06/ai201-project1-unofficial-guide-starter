@@ -1,0 +1,187 @@
+Course: COSC2325
+Professor: Michael Miller
+Date: Jul 10th, 2025
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Guidelines and expectations clear from day one. Several homework assignments, a few coding labs, and two tests. Lectures not mandatory but helpful. Relaxed grading.
+
+
+Course: COSC2325
+Professor: Michael Miller
+Date: May 3rd, 2025
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Very helpful during labs if you're confused. Only 2 exams (online) and a few assignments/labs. Clear grading.
+
+
+Course: COSC2325
+Professor: Michael Miller
+Date: Dec 20th, 2024
+Quality: 5.0
+Difficulty: 1.0
+Review:
+This class made me fall in love with hardware. Super chill professor. Worked at NASA. Great to talk to if you like computers and coding.
+
+
+Course: COSC2325
+Professor: Michael Miller
+Date: Oct 30th, 2024
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Great professor. Super easy class. Everything is fair.
+
+
+Course: COSC2325
+Professor: Michael Miller
+Date: Jul 29th, 2024
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Amazing professor. Caring and chill. Allows resubmissions before due dates. Never felt stressed in his summer class.
+
+
+Course: ITSE1301
+Professor: Michael Miller
+Date: Apr 18th, 2024
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Simple course with easy-to-follow assignment instructions.
+
+
+Course: ITSE1301
+Professor: Michael Miller
+Date: May 28th, 2023
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Great professor, easy class. Self-paced. Gives great feedback and allows resubmissions before due dates. No tests. Videos and reading are key.
+
+
+Course: ITSE1393
+Professor: Michael Miller
+Date: May 23rd, 2022
+Quality: 5.0
+Difficulty: 4.0
+Review:
+Great experience. New to Android programming and learned a lot. No textbook; rely on web and developer docs. Very helpful and responsive.
+
+
+Course: AGME1315
+Professor: Michael Miller
+Date: Dec 11th, 2021
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Very responsive and helpful. Comfortable class environment. Took Farm/Ranch Shop Skills. Show up, practice, take safety tests.
+
+
+Course: COSC2325
+Professor: Michael Miller
+Date: May 12th, 2021
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Easiest A due to COVID online format. Would have preferred hands-on learning. Great professor, but material is tough. Good for an easy A.
+
+
+Course: COSC2325
+Professor: Michael Miller
+Date: May 11th, 2021
+Quality: 4.0
+Difficulty: 1.0
+Review:
+Lectures boring but labs/tests fair. Can submit labs early and resubmit for full credit. Tests open book. Quick responses.
+
+
+Course: COSC2436
+Professor: Michael Miller
+Date: May 10th, 2021
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Great teacher, listens and responds quickly. Instructions sometimes vague due to textbook. Reasonable exams. Will miss this professor.
+
+
+Course: COSC2436
+Professor: Michael Miller
+Date: May 14th, 2020
+Quality: 4.0
+Difficulty: 4.0
+Review:
+6 labs and 3 exams. Fail an exam and you fail the class. Read the textbook or use Quizlet. Clear and straightforward.
+
+
+Course: COSC2436
+Professor: Michael Miller
+Date: Aug 13th, 2019
+Quality: 5.0
+Difficulty: 3.0
+Review:
+One of the best professors at ACC. Hard material but explains well with examples. Loves teaching. Wish there were more grades.
+
+
+Course: COSC2436
+Professor: Michael Miller
+Date: Jul 29th, 2019
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Very nice and experienced. Graded by few things, so don’t fail tests. Not difficult overall.
+
+
+Course: COSC2436
+Professor: Michael Miller
+Date: Jun 13th, 2018
+Quality: 4.0
+Difficulty: 5.0
+Review:
+Hard course but he makes it less stressful. Labs 50%, tests 50%. Very smart and thorough. Must use the exact methods he specifies.
+
+
+Course: COSC2436
+Professor: Michael Miller
+Date: Jun 4th, 2018
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Really knows his stuff. Clear grading criteria.
+
+
+Course: ITSE1393
+Professor: Michael Miller
+Date: Jan 4th, 2018
+Quality: 4.0
+Difficulty: 4.0
+Review:
+First online class and first programming experience. Great package of info using Udacity and other links. Book outdated and optional. Very responsive.
+
+
+Course: COSC2436
+Professor: Michael Miller
+Date: Dec 15th, 2017
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Strict but wants you to learn. Well-organized lectures with real-world examples. Manageable assignments. Gained a lot of knowledge.
+
+
+Course: COSC2436
+Professor: Michael Miller
+Date: Jul 31st, 2017
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Lenient and helpful. Not stressful. Read the textbook for exams.
+
+
+Course: COSC2436
+Professor: Michael Miller
+Date: Mar 10th, 2016
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Really knows his stuff and willing to explain and help.

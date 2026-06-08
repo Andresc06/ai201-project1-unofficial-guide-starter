@@ -1,0 +1,367 @@
+Course: COSC1337
+Professor: Kimberly Jorgenson
+Date: Jun 3rd, 2025
+Quality: 5.0
+Difficulty: 1.0
+Review:
+If you want to learn to code, she is a great teacher. She explains what things actually mean and gives real coding examples so you can see what's happening. Workload is lighter than most.
+
+
+Course: COSC1337
+Professor: Kimberly Jorgenson
+Date: Dec 11th, 2024
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Great professor. Lectures cover required material, instructions are clear, and exam reviews help. Responds to emails on time and provides helpful feedback.
+
+
+Course: BCIS1305
+Professor: Kimberly Jorgenson
+Date: May 12th, 2024
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Very easy online class. Multiple attempts on exams, quizzes, and assignments. No meetings or attendance. Hard to fail.
+
+
+Course: COSC1337
+Professor: Kimberly Jorgenson
+Date: Jan 3rd, 2024
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Professional and kind. Gives all assignments at the start of the semester and grades on time. Very available outside lecture time.
+
+
+Course: COSC1301
+Professor: Kimberly Jorgenson
+Date: Aug 30th, 2023
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Responds to emails consistently. Clear grading criteria. Helpful during lectures and labs. Do your work and the class goes smoothly.
+
+
+Course: COSC1336
+Professor: Kimberly Jorgenson
+Date: Aug 7th, 2023
+Quality: 2.0
+Difficulty: 1.0
+Review:
+Extremely easy class but doesn’t prepare you well for future CS courses. Good for a GPA boost.
+
+
+Course: COSC1301
+Professor: Kimberly Jorgenson
+Date: May 9th, 2023
+Quality: 5.0
+Difficulty: 5.0
+Review:
+Very kind and caring. Accommodated anxiety issues. Easy class if you know basic Windows programs. Highly recommended.
+
+
+Course: COSC1317
+Professor: Kimberly Jorgenson
+Date: Feb 25th, 2023
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Great professor. Many assignments can be found online and modified. Allows two pages of notes on exams. Very responsive to emails.
+
+
+Course: COSC1337
+Professor: Kimberly Jorgenson
+Date: Jan 10th, 2023
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Highly recommend for Programming Fundamentals II. Organized, fast-paced, and makes programming simple to understand.
+
+
+Course: COSC1337
+Professor: Kimberly Jorgenson
+Date: Dec 8th, 2022
+Quality: 4.0
+Difficulty: 2.0
+Review:
+Nice professor. Course not difficult. Grades strictly if you don’t use proper modularity. Would take again.
+
+
+Course: COSC1336
+Professor: Kimberly Jorgenson
+Date: May 15th, 2022
+Quality: 5.0
+Difficulty: 2.0
+Review:
+One of the best professors for online programming fundamentals. Very accessible and supportive.
+
+
+Course: COSC1336
+Professor: Kimberly Jorgenson
+Date: Apr 4th, 2022
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Wants the best for her students. Goes over labs during lecture. Will help you pass if you put in the work.
+
+
+Course: COSC1337
+Professor: Kimberly Jorgenson
+Date: Mar 31st, 2022
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Easy class. If your program meets requirements, you get a 100. Weekly labs take 1–2 hours. Fair exams.
+
+
+Course: COSC1337
+Professor: Kimberly Jorgenson
+Date: Dec 6th, 2021
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Amazing professor. Answers questions, leaves helpful feedback, and cares about student understanding. Easy A if you pay attention.
+
+
+Course: COSC1337
+Professor: Kimberly Jorgenson
+Date: Oct 4th, 2021
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Quick email responses. Straightforward syllabus and instructions.
+
+
+Course: COSC1336
+Professor: Kimberly Jorgenson
+Date: Aug 5th, 2021
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Nice class. Gives good feedback and is accessible outside class.
+
+
+Course: COSC1337
+Professor: Kimberly Jorgenson
+Date: May 31st, 2021
+Quality: 3.0
+Difficulty: 2.0
+Review:
+Skipped lectures and used the textbook. Labs easy with textbook knowledge. Responds to emails within a day. Open-book tests.
+
+
+Course: COSC1301
+Professor: Kimberly Jorgenson
+Date: Mar 5th, 2021
+Quality: 5.0
+Difficulty: 1.0
+Review:
+“Show me, guide me, let me try” style. Exams easy if you follow along. Do the work and you’ll get an A.
+
+
+Course: COSC1317
+Professor: Kimberly Jorgenson
+Date: Aug 11th, 2020
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Helpful and responsive. Labs count more than exams. Must piece together concepts on your own. Don’t fall behind.
+
+
+Course: COSC1337
+Professor: Kimberly Jorgenson
+Date: Aug 4th, 2020
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Great professor. Weekly chats helped a lot. Exams are fill‑in‑the‑blank. Weekly labs and codelabs.
+
+
+Course: COSC1317
+Professor: Kimberly Jorgenson
+Date: Jun 15th, 2020
+Quality: 3.0
+Difficulty: 3.0
+Review:
+Recommend it.
+
+
+Course: COSC1317
+Professor: Kimberly Jorgenson
+Date: May 14th, 2020
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Passionate about student success. Builds a strong foundation. Even with zero experience, you can succeed with effort.
+
+
+Course: COSC1336
+Professor: Kimberly Jorgenson
+Date: Apr 13th, 2020
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Clear and easy-to-follow lectures. Very helpful and friendly.
+
+
+Course: COSC1336
+Professor: Kimberly Jorgenson
+Date: Dec 15th, 2019
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Disappointing online course. Irrelevant homework, tough grader, reviews don’t match tests. Avoid.
+
+
+Course: COSC1336
+Professor: Kimberly Jorgenson
+Date: May 16th, 2019
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Labs difficult and feedback lacking. Exam reviews not helpful. Had to rely on online resources.
+
+
+Course: COSC1336
+Professor: Kimberly Jorgenson
+Date: Feb 23rd, 2019
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Knowledgeable and helpful. Lectures dry but textbook helps. Easy class to pass but concepts matter for later courses.
+
+
+Course: COSC1336
+Professor: Kimberly Jorgenson
+Date: Jan 26th, 2019
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Lenient course. Follows textbook. Lectures not very digestible but professor is available to help.
+
+
+Course: COSC1336
+Professor: Kimberly Jorgenson
+Date: Dec 13th, 2018
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Industry professional. Great feedback. Accessible. Gives ample lab time. Very predictable and organized.
+
+
+Course: COSC1337
+Professor: Kimberly Jorgenson
+Date: Aug 7th, 2018
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Online class. Prompt and pleasant responses. Clear grading. Straightforward exams with bonus questions.
+
+
+Course: COSC1301
+Professor: Kimberly Jorgenson
+Date: Apr 2nd, 2018
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Knowledgeable and helpful. Answers emails quickly. Lectures short. Assignments flexible. Show up for tests.
+
+
+Course: COSC1336
+Professor: Kimberly Jorgenson
+Date: Mar 23rd, 2018
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Short when asked for help. Penalizes “similar” programs even for study partners. Gets more help from tutoring than class.
+
+
+Course: COSC1301
+Professor: Kimberly Jorgenson
+Date: Dec 23rd, 2017
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Dry lectures but easiest class ever. Great for high school dual credit. Expensive book but easy A.
+
+
+Course: COSC1317
+Professor: Kimberly Jorgenson
+Date: Dec 16th, 2016
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Great professor. Do assignments and exam reviews and you’ll get an A.
+
+
+Course: COSC1336
+Professor: Kimberly Jorgenson
+Date: Nov 10th, 2016
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Best online class ever. Easy to reach, eager to help. Made learning Python enjoyable. Assignments and tests reasonable.
+
+
+Course: COSC1337
+Professor: Kimberly Jorgenson
+Date: Oct 16th, 2016
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Issues with teaching C++. Tests nearly impossible. Penalizes similar programs. Ridiculous.
+
+
+Course: COSC1301
+Professor: Kimberly Jorgenson
+Date: Aug 11th, 2016
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Very patient. Impossible not to do well in her class.
+
+
+Course: COSC1336
+Professor: Kimberly Jorgenson
+Date: Nov 6th, 2015
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Weekly labs with a week to complete. Helpful with questions. Easy tests. Allows cheat sheet.
+
+
+Course: COSC1336
+Professor: Kimberly Jorgenson
+Date: Nov 4th, 2015
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Great professor. Lectures quick but she helps a lot if you have problems. Tests not too hard.
+
+
+Course: COSC1317
+Professor: Kimberly Jorgenson
+Date: Sep 4th, 2015
+Quality: 5.0
+Difficulty: 4.0
+Review:
+Must-have if you’ve never coded. Clear, organized, uses Blackboard well. Helps after class. Great atmosphere.
+
+
+Course: 1301
+Professor: Kimberly Jorgenson
+Date: Aug 23rd, 2015
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Very nice and helpful. Impossible to get less than an A.
+
+
+Course: COSC1336
+Professor: Kimberly Jorgenson
+Date: Jun 23rd, 2015
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Super helpful. Even with prior experience, learned new things. Explores Python library beyond basics.

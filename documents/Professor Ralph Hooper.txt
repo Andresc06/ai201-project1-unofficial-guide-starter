@@ -1,0 +1,250 @@
+Course: COSC1302
+Professor: Ralph Hooper
+Date: Dec 2nd, 2025
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Long boring lectures, both live and recorded. Doesn’t grade anything on time, leaving students unsure of their standing. Posts the final at the last minute. Use GenAI when possible—he hates it but requires you to cite it. Lots of homework.
+
+
+Course: ITSW1307
+Professor: Ralph Hooper
+Date: Aug 12th, 2025
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Worst instructor I’ve had in 14 years at ACC. Class created by an online textbook tool. Feels like a waste of resources.
+
+
+Course: BCIS1305
+Professor: Ralph Hooper
+Date: May 2nd, 2025
+Quality: 1.0
+Difficulty: 5.0
+Review:
+One of the worst support systems for one of the worst websites used to teach this course. Lots of homework and test‑heavy.
+
+
+Course: COSC1336
+Professor: Ralph Hooper
+Date: Mar 29th, 2025
+Quality: 3.0
+Difficulty: 3.0
+Review:
+Explains content well but missing even 5 minutes can leave you lost. Replies quickly to emails and cares about student learning. Tough grader on projects and slow to grade. Lots of homework and daily activities.
+
+
+Course: BCIS1305
+Professor: Ralph Hooper
+Date: Oct 23rd, 2024
+Quality: 4.0
+Difficulty: 2.0
+Review:
+Very chill professor. Grading system confusing. Lets students work at their own pace with no deadlines until the end. Stopped hosting online classes and assigned homework instead, which didn’t work well for some.
+
+
+Course: COSC1301
+Professor: Ralph Hooper
+Date: Aug 5th, 2024
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Very easy course with simple assignments. Five‑week class with fully flexible pacing.
+
+
+Course: COSC3360
+Professor: Ralph Hooper
+Date: May 14th, 2024
+Quality: 3.0
+Difficulty: 3.0
+Review:
+Good professor who teaches well but grades extremely slowly and gives no feedback. Answers emails unless you ask about grading. Participation matters.
+
+
+Course: COSC3360
+Professor: Ralph Hooper
+Date: Dec 9th, 2023
+Quality: 4.0
+Difficulty: 4.0
+Review:
+COSC 3302 (Critical Thinking). Math/logic class covering set theory, puzzles, calculus fundamentals, and proofs. Assignments went ungraded all semester but he’s not a tough grader.
+
+
+Course: COSC3360
+Professor: Ralph Hooper
+Date: Dec 9th, 2023
+Quality: 4.0
+Difficulty: 2.0
+Review:
+COSC 3380 (Machine Learning I). Pleasant intro to ML. First project intense, others much easier. Projects and tests assigned at the same time. Slow grader.
+
+
+Course: COSC3360
+Professor: Ralph Hooper
+Date: Jun 26th, 2023
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Lectures long but helpful. Grading can be strange. Very caring and willing to help. One of the good professors at ACC.
+
+
+Course: COSC3360
+Professor: Ralph Hooper
+Date: Dec 5th, 2022
+Quality: 4.0
+Difficulty: 1.0
+Review:
+Assigns things last minute and grades late, but topics are interesting and he responds quickly. Lenient grader. Lots of writing but not difficult.
+
+
+Course: COSC1302
+Professor: Ralph Hooper
+Date: Jun 8th, 2022
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Great professor with clear grading criteria and excellent lectures. Full of experience and illustrative examples.
+
+
+Course: COSC1336
+Professor: Ralph Hooper
+Date: Dec 9th, 2021
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Great first programming professor. Weekly projects and three tests. Learned a lot of Python. Theory not integrated well. Tests open notes/Google.
+
+
+Course: COSC1336
+Professor: Ralph Hooper
+Date: May 2nd, 2021
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Eight easy projects and three tests. Very helpful. Records classes and provides summaries. Highly recommended.
+
+
+Course: COSC1301
+Professor: Ralph Hooper
+Date: Mar 24th, 2021
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Great professor with timely email responses. Answers all questions clearly. Lots of work but not difficult. Very caring.
+
+
+Course: COSC1301
+Professor: Ralph Hooper
+Date: Jan 3rd, 2021
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Replaced previous professor mid‑semester and helped the entire class succeed. Inspirational and understanding.
+
+
+Course: COSC1336
+Professor: Ralph Hooper
+Date: Dec 30th, 2020
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Good guy who cares about students. Lectures heavy but helpful.
+
+
+Course: COSC1336
+Professor: Ralph Hooper
+Date: Dec 21st, 2020
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Great professor who genuinely cares about student success.
+
+
+Course: COSC1336
+Professor: Ralph Hooper
+Date: Dec 15th, 2020
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Best professor in the computer science department.
+
+
+Course: COSC1301
+Professor: Ralph Hooper
+Date: Dec 15th, 2020
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Needed a lot of help and he provided it. Very caring and supportive.
+
+
+Course: COSC1336
+Professor: Ralph Hooper
+Date: Dec 15th, 2020
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Best professor at ACC. Lots of homework but worth it.
+
+
+Course: COSC1336
+Professor: Ralph Hooper
+Date: Aug 4th, 2020
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Extremely disrespectful. PowerPoints useless. Projects and tests require outside research. Sets students up for failure.
+
+
+Course: BCIS1305
+Professor: Ralph Hooper
+Date: May 4th, 2020
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Didn’t interact with him much but course was easy to follow and expectations were clear.
+
+
+Course: COSC1301
+Professor: Ralph Hooper
+Date: Dec 24th, 2018
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Great professor. Class easy because it was mostly MS Office. Added interesting extra material. Would take again.
+
+
+Course: ITSW1307
+Professor: Ralph Hooper
+Date: Dec 21st, 2018
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Awesome lectures with relatable explanations. Very experienced. One of the better professors at ACC.
+
+
+Course: ITSW1307
+Professor: Ralph Hooper
+Date: Dec 12th, 2018
+Quality: 4.0
+Difficulty: 2.0
+Review:
+Nice guy who encourages independence but helps when needed. Access class was interesting. Would take again.
+
+
+Course: BCIS1305
+Professor: Ralph Hooper
+Date: Jan 26th, 2018
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Very understanding and helpful. Tests difficult but based on notes. Allows redos and flexible test days. Highly recommended.
+
+
+Course: BCIS1305
+Professor: Ralph Hooper
+Date: Dec 14th, 2017
+Quality: 4.0
+Difficulty: 4.0
+Review:
+Not a blow‑off class. 3–6 online assignments weekly plus daily in‑class activities. Must communicate if absent. Lots of homework but he offers help and is nice.

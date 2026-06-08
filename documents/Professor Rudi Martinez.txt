@@ -1,0 +1,437 @@
+Course: ITSE2302
+Professor: Rudi Martinez
+Date: May 1st, 2026
+Quality: 2.0
+Difficulty: 4.0
+Review:
+0-or-100 grading with hard due dates. Only 2 redos allowed. One mistake results in a 0. Received a 0 for titling an assignment incorrectly. When asking for guidance, he questioned my qualifications.
+
+
+Course: ITSE1330
+Professor: Rudi Martinez
+Date: Nov 21st, 2025
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Well-organized with clear grading criteria. No guesswork. Read the textbook, follow practice assignments, debug your programs, and you’ll do great. Not for students wanting hand-holding.
+
+
+Course: COSC1337
+Professor: Rudi Martinez
+Date: Jun 8th, 2025
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Submitting assignments feels like calculating missile trajectories. Many requirements, many files to submit, and any mistake results in failure. Instructions on submission and grading are hard to find. Avoid.
+
+
+Course: ITSE-2331
+Professor: Rudi Martinez
+Date: Feb 16th, 2025
+Quality: 1.0
+Difficulty: 1.0
+Review:
+Awful. Bad. 0-or-100 grading. Very few graded items.
+
+
+Course: ITSE2331
+Professor: Rudi Martinez
+Date: Sep 13th, 2024
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Online class with no teaching. Grades are 0 or 100 for tiny mistakes like wrong screenshots. Only two submissions allowed. Minimal help with code.
+
+
+Course: ITSE2331
+Professor: Rudi Martinez
+Date: Feb 17th, 2024
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Course was GAME-2341. Entire class is videos he made. Any deviation from instructions results in a 0. Minimal feedback. 0-or-100 grading is not good for learning.
+
+
+Course: ITSE2331
+Professor: Rudi Martinez
+Date: Jan 29th, 2024
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Assignments are 0 or 100 with little explanation. One mistake = 0. Must check everything repeatedly.
+
+
+Course: COSC1315
+Professor: Rudi Martinez
+Date: Oct 24th, 2023
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Class was GAME-2341. Videos drag on. Any deviation from instructions results in a 0, even missing one required screenshot.
+
+
+Course: ITSE1359
+Professor: Rudi Martinez
+Date: May 14th, 2023
+Quality: 2.0
+Difficulty: 2.0
+Review:
+Online textbook he wrote is hard to read. Later material uses “Automate the Boring Stuff,” which is better. Assignments are 100 or 0 with two makeup assignments.
+
+
+Course: ITSE1330
+Professor: Rudi Martinez
+Date: Nov 7th, 2022
+Quality: 4.0
+Difficulty: 1.0
+Review:
+No longer uses his own textbook or grades as harshly. One program due weekly from Tony Gaddis. Trending in the right direction.
+
+
+Course: ITSE1331
+Professor: Rudi Martinez
+Date: Nov 7th, 2022
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Wouldn’t recommend. Doesn’t respond to emails. Expects you to already know coding. Doesn’t let you know who’s in your class. You’re on your own.
+
+
+Course: COSC1337
+Professor: Rudi Martinez
+Date: Jul 7th, 2022
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Unrelenting and uncaring during the pandemic. No compromise for difficulties. Accessible but harsh. Lots of homework and heavy lectures.
+
+
+Course: COSC1336
+Professor: Rudi Martinez
+Date: Jul 6th, 2022
+Quality: 2.0
+Difficulty: 3.0
+Review:
+Main issue is that he hides the class roster in online classes. Coding is collaborative, but you’re forced to work alone. Instruction is subpar.
+
+
+Course: ITSE1359
+Professor: Rudi Martinez
+Date: May 23rd, 2022
+Quality: 3.0
+Difficulty: 2.0
+Review:
+Weird class. Content is mostly web pages he built. No traditional textbook. Assignments not hard, but “common requirements” like flowcharts are annoying.
+
+
+Course: COSC1337
+Professor: Rudi Martinez
+Date: Dec 11th, 2021
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Made me drop the class and switch majors. Destroyed my interest in CS.
+
+
+Course: COSC1337
+Professor: Rudi Martinez
+Date: Dec 7th, 2021
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Lazy and uncaring. No tests, but assignments must be perfect or you get a 0. Sends students to tutoring for tiny questions. Seems to dislike students.
+
+
+Course: ITSE1359
+Professor: Rudi Martinez
+Date: Nov 14th, 2021
+Quality: 1.0
+Difficulty: 5.0
+Review:
+No partial credit. 90% correct = 0. 50% correct = 0. Doesn’t provide feedback. Worst experience.
+
+
+Course: ITSE1331
+Professor: Rudi Martinez
+Date: Apr 1st, 2020
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Expectations for an intro class are insane. Expects proficiency from day one. Responses vague. Must drag information out of him.
+
+
+Course: ITSE1330
+Professor: Rudi Martinez
+Date: Nov 27th, 2019
+Quality: 1.0
+Difficulty: 5.0
+Review:
+0 for any mistake. Not helpful. Acts inconvenienced when asked questions. Wrote his own confusing textbook. Exams get progressively harder.
+
+
+Course: COSC1337
+Professor: Rudi Martinez
+Date: Jul 29th, 2019
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Doesn’t teach coding. Just goes over PowerPoints and shows prewritten code. No lab time used. Didn’t learn anything.
+
+Course: COSC1336
+Professor: Rudi Martinez
+Date: Jul 14th, 2019
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Don’t need to attend class, but he gives extra credit if you do. All course material is online and he goes over it in class. Clear grading criteria.
+
+
+Course: ITSE2302
+Professor: Rudi Martinez
+Date: May 15th, 2019
+Quality: 3.0
+Difficulty: 3.0
+Review:
+Projects were challenging but taught a lot. Needed outside resources to complete assignments. Doesn’t provide helpful feedback, but following instructions works.
+
+
+Course: ITSE1331
+Professor: Rudi Martinez
+Date: May 10th, 2019
+Quality: 1.0
+Difficulty: 4.0
+Review:
+Worst learning experience. He wrote his own textbook and it’s confusing. Strict grading. Won’t let you see exam errors. Felt like boot camp.
+
+
+Course: COSC1317
+Professor: Rudi Martinez
+Date: Jun 27th, 2018
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Worst instructor ever. Constantly says “refer to syllabus.” Adds zero value. Rude, intimidating, vague, and unhelpful. Tutors warn students about him.
+
+
+Course: ITSE1331
+Professor: Rudi Martinez
+Date: Oct 8th, 2017
+Quality: 1.0
+Difficulty: 5.0
+Review:
+First programming class and it was a nightmare. No lectures for an online intro class. Syllabus confusing. Grading unfair. Avoid.
+
+
+Course: ITSE1311
+Professor: Rudi Martinez
+Date: Oct 6th, 2017
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Beginning Web class was terrible. W3C site inadequate unless you already know the material. Don’t take unless forced. Get good textbooks if you must.
+
+
+Course: COSC1337
+Professor: Rudi Martinez
+Date: Aug 7th, 2017
+Quality: 3.0
+Difficulty: 4.0
+Review:
+Lectures come straight from the book. Tedious assignment submission process. Makes you figure out assignments alone. Better to take during regular semester.
+
+
+Course: ITSE1330
+Professor: Rudi Martinez
+Date: Jun 29th, 2017
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Had prior experience and still struggled. 0-or-100 grading is nerve‑wracking. Poor communication. Replies are short and unhelpful.
+
+
+Course: ITSE2302
+Professor: Rudi Martinez
+Date: Feb 25th, 2017
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Avoid at all costs. Lazy. Links to w3schools for everything. First day email says you’re already behind. Assignments have 50–100 requirements. Fail any requirement = 0.
+
+
+Course: COSC1336
+Professor: Rudi Martinez
+Date: Jan 13th, 2017
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Fantastic professor. Clear expectations and organized lectures. Provides insight into local tech companies. Answers questions thoroughly. Would take again.
+
+
+Course: COSC1337
+Professor: Rudi Martinez
+Date: Nov 17th, 2016
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Programming requires reading and practice. Martinez is a fair grader and entertaining lecturer. Instructions come straight from the textbook. Read the book.
+
+
+Course: COSC1336
+Professor: Rudi Martinez
+Date: Aug 11th, 2016
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Worst professor. Gives 0 for tiny mistakes even if 95% correct. Tutors say his assignments are horribly written. Avoid at all costs.
+
+
+Course: PROG1
+Professor: Rudi Martinez
+Date: Jul 30th, 2016
+Quality: 3.0
+Difficulty: 3.0
+Review:
+Summer class. No book required. Wants you to become an expert. One assignment per week. Early on, you code first then he explains; later he explains first.
+
+
+Course: ITSE1331
+Professor: Rudi Martinez
+Date: Mar 29th, 2016
+Quality: 2.0
+Difficulty: 5.0
+Review:
+Professor’s default answer is “refer to syllabus.” Not impressed.
+
+
+Course: ITSE1401
+Professor: Rudi Martinez
+Date: Aug 2nd, 2015
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Laziest teacher encountered. Indecipherable syllabus, unresponsive, intimidating. Makes easy concepts difficult. Tests intentionally tough. Avoid if new to programming.
+
+
+Course: ITSE1401
+Professor: Rudi Martinez
+Date: Jul 11th, 2015
+Quality: 2.0
+Difficulty: 1.0
+Review:
+Short essays required. Material easy but exams unclear. Exam 1 covered 200 pages. Exams 2 and 3 full of surprises.
+
+
+Course: ITSE1401
+Professor: Rudi Martinez
+Date: Jun 20th, 2015
+Quality: 1.5
+Difficulty: 4.0
+Review:
+Nothing but essays at first. Instructions unclear. No office hours. Slow email responses. Didn’t allow retake of orientation test. Poor communication.
+
+
+Course: ITSE1331
+Professor: Rudi Martinez
+Date: May 11th, 2015
+Quality: 2.0
+Difficulty: 4.0
+Review:
+Online class. First test reasonable, second came out of nowhere, third was awful. Luckily programming assignments are 50% of grade. Tests are hard.
+
+
+Course: ITSE2317
+Professor: Rudi Martinez
+Date: May 9th, 2015
+Quality: 1.0
+Difficulty: 5.0
+Review:
+No office hours, doesn’t answer phone. Slow email replies. Belligerent if you ask more than a couple questions. Instructions long and confusing.
+
+
+Course: ITSE1331
+Professor: Rudi Martinez
+Date: Apr 11th, 2015
+Quality: 3.0
+Difficulty: 4.0
+Review:
+Easy class if you like programming. Uses stock test questions that include material not covered. When confronted, he dismisses concerns and tells you to read better.
+
+Course: ITSE1331
+Professor: Rudi Martinez
+Date: Apr 24th, 2012
+Quality: 4.0
+Difficulty: 1.0
+Review:
+Took ITSE 1331 and 2305. Overall easy classes. Nine assignments worth 50% and three tests worth 50%. Martinez is smart and knows his material.
+
+
+Course: ITSE1411
+Professor: Rudi Martinez
+Date: May 16th, 2011
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Good professor if you want to walk out with real knowledge. Uses PowerPoint but explains step by step. Better than just reading the book. Very helpful.
+
+
+Course: ITSE1401
+Professor: Rudi Martinez
+Date: May 2nd, 2011
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Clear instruction. Enjoyable class. Easy to keep up with the workload. Highly recommended.
+
+
+Course: COSC1315
+Professor: Rudi Martinez
+Date: Oct 26th, 2010
+Quality: 4.5
+Difficulty: 1.0
+Review:
+Great teacher, though uses bad jokes and sometimes demeans students. Repeats important info often. If you read before class and pay attention, everything is clear.
+
+
+Course: COSC1315
+Professor: Rudi Martinez
+Date: Nov 16th, 2009
+Quality: 3.5
+Difficulty: 1.0
+Review:
+Totally easy. Don’t need to show up except for exams. Funny and dorky. Recommended.
+
+
+Course: COSC1320
+Professor: Rudi Martinez
+Date: Sep 8th, 2009
+Quality: 3.5
+Difficulty: 1.0
+Review:
+Fine for community college, but roommates who work in the field explained things better. He’s okay but not exceptional.
+
+
+Course: COSC1320
+Professor: Rudi Martinez
+Date: Jul 14th, 2009
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Condescending, reads PowerPoints verbatim, lazy, little participation, lacks rigor, ends class early, doesn’t meet syllabus objectives. Waste of time and money.
+
+
+Course: COSC1315
+Professor: Rudi Martinez
+Date: Nov 10th, 2008
+Quality: 3.5
+Difficulty: 3.0
+Review:
+Nice guy, former Army. Teaching lacks enthusiasm and sometimes demeans students. Lazy teacher. Tests not code‑based. Homework can be wrong as long as executable works. Don’t recommend.
+
+
+Course: COSC1315
+Professor: Rudi Martinez
+Date: Feb 19th, 2008
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Former Navy pilot. Lectures dry but structured. Great use of lab time. Tests on computer with instant grading. Highly recommended.

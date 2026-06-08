@@ -1,0 +1,529 @@
+Course: COSC1300
+Professor: Murtaza Ally
+Date: Oct 13th, 2025
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Very helpful. 10 projects, 10 quizzes, 3 exams. No lockdown browser. Accepts late work. Walks you through projects if you struggle. Would recommend. Lectures/videos would be helpful but not offered.
+
+
+Course: COSC1300
+Professor: Murtaza Ally
+Date: Oct 29th, 2024
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Super nice and understanding. Extends deadlines if you email him. Would definitely take again.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: May 22nd, 2024
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Best professor I’ve taken. About 10 small projects, 3 exams, and quizzes. Understanding about deadlines. Lectures are interesting and funny. Records and posts lectures. Will look for him again.
+
+
+Course: COSC1337
+Professor: Murtaza Ally
+Date: Mar 18th, 2024
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Made second‑year programming fun. Cares about students learning to code. Lots of helpful examples. Quick email responses and prompt grading.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: Dec 1st, 2023
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Very nice, gives extensions, laid back, funny. Good grader. Loved his “Ally Baba” jokes.
+
+
+Course: COSC1337
+Professor: Murtaza Ally
+Date: Oct 19th, 2023
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Awesome professor. Caring, respectful, wants students to succeed. Great sense of humor. Makes class fun.
+
+
+Course: COSC1337
+Professor: Murtaza Ally
+Date: Aug 3rd, 2023
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Offered lots of help and made the class simpler.
+
+
+Course: COSC1337
+Professor: Murtaza Ally
+Date: May 15th, 2023
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Provides plenty of practice. Stops anytime to help. Tests easy and based on reviews. Highly recommended.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: Jan 5th, 2023
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Caring professor who wants students to succeed. Clear project instructions. Exams can be difficult. Fastest grader ever. Glad I took his class.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: Dec 9th, 2022
+Quality: 5.0
+Difficulty: 2.0
+Review:
+One of the best online experiences. Engaged, slows down when needed, explains concepts clearly. Speak up or you’ll get left behind.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: Dec 7th, 2022
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Wonderful professor. Encourages participation and makes learning fun. Kind grader. Highly recommended.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: Dec 7th, 2022
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Wonderful professor. Thick “Texas accent” but very helpful. Prepares you well for programming basics.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: Dec 6th, 2022
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Does not explain coding concepts well. Goes off topic and too fast. Projects long and difficult. Exams too hard. Do not recommend.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: Oct 20th, 2022
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Amazing professor. Encourages questions, makes jokes, makes material easy. Also teaches algebra well.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: Jun 7th, 2022
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Incredible professor. Hilarious and makes programming stress‑free. Highly recommend over Rudy Martinez.
+
+
+Course: ITSE1331
+Professor: Murtaza Ally
+Date: May 23rd, 2022
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Laid‑back class. Quizzes easy. Can resubmit assignments if early. Very responsive. A is easy if you stay ahead.
+
+
+Course: COSC1337
+Professor: Murtaza Ally
+Date: May 15th, 2022
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Cares about students. Makes sure everyone understands. Grade based on 9 projects and 3 tests. Plenty of time for projects. Encourages collaboration.
+
+
+Course: BCIS1305
+Professor: Murtaza Ally
+Date: May 12th, 2022
+Quality: 5.0
+Difficulty: 4.0
+Review:
+Helps students until the last day. Respectful and funny. Easy to pass if you keep up. Tests open notes.
+
+
+Course: COSC1337
+Professor: Murtaza Ally
+Date: May 6th, 2022
+Quality: 4.0
+Difficulty: 2.0
+Review:
+Grading criteria not always clear but lenient. Lots of coding in class. Some lectures more useful than others. Sometimes passive‑aggressive. Overall glad he taught C++.
+
+
+Course: COSC1337
+Professor: Murtaza Ally
+Date: Apr 26th, 2022
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Hands‑on class. Write code every day. Answers questions clearly. Flexible grading. Exams based on class work.
+
+
+Course: ITSE1331
+Professor: Murtaza Ally
+Date: Apr 3rd, 2022
+Quality: 1.0
+Difficulty: 3.0
+Review:
+Online class is just the publisher’s premade course. No original content. Better off buying the book yourself.
+
+
+Course: BCIS1305
+Professor: Murtaza Ally
+Date: Oct 2nd, 2021
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Cares about students, funny, keeps lectures interesting. Show up and do the work and you’ll get an A.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: Jul 28th, 2021
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Makes sure everyone is on the same page. Puts learning before grades. Great for beginners.
+
+
+Course: COSC1337
+Professor: Murtaza Ally
+Date: May 30th, 2021
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Highly recommended. Cares about students learning. Great feedback. Allows resubmissions and extensions.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: May 26th, 2021
+Quality: 5.0
+Difficulty: 4.0
+Review:
+Challenging first programming class. Many projects and 3 exams. Covers everything on tests. Real‑world experience helps.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: Apr 8th, 2021
+Quality: 5.0
+Difficulty: 5.0
+Review:
+Lots of assignments but none are busywork. Very patient and helpful. Highly recommend.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: Dec 16th, 2020
+Quality: 5.0
+Difficulty: 4.0
+Review:
+Wonderful instructor. Caring, patient, and supportive. Says “we are learning together.” Made me love programming.
+
+
+Course: COSC1337
+Professor: Murtaza Ally
+Date: Aug 16th, 2020
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Self‑paced 9‑week class. 10 assignments, 10 projects, 3 exams. Start early because later projects are harder. A is easy.
+
+
+Course: COSC1337
+Professor: Murtaza Ally
+Date: Jun 9th, 2020
+Quality: 5.0
+Difficulty: 4.0
+Review:
+Great attitude, explains programming clearly. 10 projects and 3 exams. Works with you if you show effort.
+
+
+Course: COSC1337
+Professor: Murtaza Ally
+Date: May 30th, 2020
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Great teacher. Do the work and you’ll pass. Don’t procrastinate on projects.
+
+
+Course: COSC1337
+Professor: Murtaza Ally
+Date: May 12th, 2020
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Second time taking him. C++ harder than Python but still enjoyable. Best programming professor at ACC.
+
+
+Course: COSC1337
+Professor: Murtaza Ally
+Date: May 5th, 2020
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Great and caring professor. Grading is generous. Lots of practice. Took both Prog Fund 1 and 2 with him.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: Feb 7th, 2020
+Quality: 4.0
+Difficulty: 2.0
+Review:
+Funny and caring. Waits for everyone to catch up. Not very helpful if you don’t understand. Easy grader. Lectures not interesting.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: Dec 19th, 2019
+Quality: 5.0
+Difficulty: 2.0
+Review:
+First programming class. Loved his approach of prioritizing learning over grades. Many projects but useful. Tests manageable.
+
+
+Course: COSC1337
+Professor: Murtaza Ally
+Date: Dec 10th, 2019
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Amazing C++ teacher. Cares about learning and makes class fun. Gives industry knowledge.
+
+
+Course: COSC1337
+Professor: Murtaza Ally
+Date: Dec 6th, 2019
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Phenomenal professor. Glad he taught C++.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: Jul 1st, 2019
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Truly cares about students learning. Funny and encouraging. Learned a lot. Rare professor.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: Mar 6th, 2019
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Best professor. Inspirational and caring.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: Dec 18th, 2018
+Quality: 5.0
+Difficulty: 2.0
+Review:
+Funny and unorthodox but deeply cares about learning. Patient and helpful. Gives industry insights.
+
+
+Course: BCIS1305
+Professor: Murtaza Ally
+Date: Dec 17th, 2018
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Best professor I’ve ever had. Caring and helpful. Highly recommend.
+
+
+Course: COSC1315
+Professor: Murtaza Ally
+Date: Aug 28th, 2018
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Best programming professor. Caring, hilarious, and helpful. Accent can be hard but worth it.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: May 13th, 2018
+Quality: 5.0
+Difficulty: 1.0
+Review:
+First programming class. Very funny. Cares about students. Easy A.
+
+
+Course: BCIS1305
+Professor: Murtaza Ally
+Date: Dec 16th, 2017
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Funny and patient. Easy tests with cheat sheets. Homework easy. Highly recommend.
+
+
+Course: COSC1337
+Professor: Murtaza Ally
+Date: Jun 22nd, 2017
+Quality: 4.0
+Difficulty: 2.0
+Review:
+Show up and do labs for an A. Funny and enjoyable. Tests manageable.
+
+
+Course: COSC1336
+Professor: Murtaza Ally
+Date: May 17th, 2017
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Best professor ever. Highly recommended.
+
+
+Course: BCIS1305
+Professor: Murtaza Ally
+Date: Apr 1st, 2017
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Cares about learning. Group projects all semester. Read the book and do assignments for an easy A.
+
+
+Course: BCIS1305
+Professor: Murtaza Ally
+Date: Nov 12th, 2016
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Very helpful. Show up and participate.
+
+
+Course: BCIS1305
+Professor: Murtaza Ally
+Date: Nov 12th, 2016
+Quality: 5.0
+Difficulty: 1.0
+Review:
+Hilarious professor. Keeps long classes interesting. Easy class with simple group projects.
+
+
+Course: COSC1301
+Professor: Murtaza Ally
+Date: Jul 19th, 2016
+Quality: 4.0
+Difficulty: 3.0
+Review:
+Accent takes getting used to but funny. Show up and pay attention and you’ll be fine.
+
+
+Course: COSC1337
+Professor: Murtaza Ally
+Date: Apr 15th, 2016
+Quality: 4.0
+Difficulty: 1.0
+Review:
+Funny professor. Speeds through presentations but reviews coursework well. Must think actively in class.
+
+
+Course: CIS1323
+Professor: Murtaza Ally
+Date: Apr 5th, 2016
+Quality: 4.0
+Difficulty: 2.0
+Review:
+Great at explaining expectations. Reminds students of online work. Notes allowed on tests. Accent sometimes hard to understand.
+
+
+Course: 1305
+Professor: Murtaza Ally
+Date: Dec 15th, 2014
+Quality: 2.5
+Difficulty: 2.0
+Review:
+Easy class. Group projects frustrating due to teammates not contributing.
+
+
+Course: BCIS1305
+Professor: Murtaza Ally
+Date: Feb 25th, 2014
+Quality: 4.0
+Difficulty: 1.0
+Review:
+Easy class. Presentations, tests with cheat sheets, and lab assignments. Helpful and funny.
+
+
+Course: BCIS1305
+Professor: Murtaza Ally
+Date: Feb 13th, 2014
+Quality: 4.5
+Difficulty: 1.0
+Review:
+Strong accent but very helpful. Cheat sheets give extra points. Many dropped but class was easy.
+
+
+Course: CIS1323
+Professor: Murtaza Ally
+Date: Oct 16th, 2013
+Quality: 3.0
+Difficulty: 3.0
+Review:
+Heavy accent but funny and helpful. Better than other CIS professors.
+
+
+Course: CLS1315
+Professor: Murtaza Ally
+Date: Oct 12th, 2013
+Quality: 1.0
+Difficulty: 5.0
+Review:
+Hard to understand. Not helpful. 80% of class failed first exam.
+
+
+Course: CIS1323
+Professor: Murtaza Ally
+Date: Dec 6th, 2012
+Quality: 1.5
+Difficulty: 5.0
+Review:
+Hard to understand and not helpful. Couldn’t get answers needed.
+
+
+Course: COSC1315
+Professor: Murtaza Ally
+Date: Aug 10th, 2009
+Quality: 4.5
+Difficulty: 1.0
+Review:
+Very helpful and ensures students understand. Lots of extra credit.
+
+
+Course: COSC1300
+Professor: Murtaza Ally
+Date: Dec 16th, 2008
+Quality: 5.0
+Difficulty: 3.0
+Review:
+Wonderful, funny, well‑rounded professor. Gives plenty of extra credit. Attend class and take notes to pass easily.
