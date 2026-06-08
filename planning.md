@@ -42,11 +42,11 @@ This project focuses on students reviews of CS professors at Austin Community Co
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:** 350 characters
+**Chunk size:** ~1 review per chunk (soft limit: 800 characters)
 
 **Overlap:** 0 characters
 
-**Reasoning:** the reviews are short and self-contained. Moreover, the maximum content length of the reviews is around 350 characters, so we can use that as our chunk size to ensure that we capture the entire review in one chunk without splitting it. In this case, overlap is not needed. Overlap is useful for continuous documents, but harmful for already atomic datasets.
+**Reasoning:** Originally, a 350-character fixed chunk size was chosen based on the assumption that reviews were short and self-contained. However, each review has more characters and contains structured information including course, professor, date, and review text. So, a soft limit of ~800 characters is used as a safeguard to prevent unusually long reviews from becoming too large for embedding models. After testing, most reviews naturally fall below this threshold, so no aggressive splitting is applied. Additionally, since each review is a distinct unit of feedback, no overlap is needed between chunks. Fixed-size character chunking was avoided because it can break reviews mid-sentence.
 
 ---
 
@@ -106,7 +106,7 @@ This project focuses on students reviews of CS professors at Austin Community Co
             ↓
 [Pull reviews + basic cleaning (remove HTML / extra noise)]
             ↓
-[Break into chunks (each review = one chunk, max ~350 chars)]
+[Break into chunks (each review = one chunk, max ~800 chars)]
             ↓
 [Create embeddings using sentence-transformers (MiniLM)]
             ↓
@@ -133,7 +133,7 @@ This project focuses on students reviews of CS professors at Austin Community Co
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
 
-I will use ChatGPT to help implement different parts of the pipeline by giving it specific sections of my planning.md as context. For example, I will provide my Chunking Strategy section and ask it to implement a chunk_text() function that follows my rule of "one review per chunk with a 350-character limit." I will also give it my Retrieval Approach section when building the vector search step so it uses the correct embedding model and top-k value. For prompt design, I will provide the requirement that the system must only use retrieved reviews and must include citations, and ask it to generate a grounded prompt template. I will verify each output by testing it against my sample documents and checking that it matches the exact constraints defined in my spec.
+I will use ChatGPT to help implement different parts of the pipeline by giving it specific sections of my planning.md as context. For example, I will provide my Chunking Strategy section and ask it to implement a chunk_text() function that follows my rule of "one review per chunk with a 800-character limit." I will also give it my Retrieval Approach section when building the vector search step so it uses the correct embedding model and top-k value. For prompt design, I will provide the requirement that the system must only use retrieved reviews and must include citations, and ask it to generate a grounded prompt template. I will verify each output by testing it against my sample documents and checking that it matches the exact constraints defined in my spec.
 
 **Milestone 3 — Ingestion and chunking:**
 
