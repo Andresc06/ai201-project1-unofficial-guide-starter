@@ -42,11 +42,11 @@ This project focuses on students reviews of CS professors at Austin Community Co
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size:** 350 characters
 
-**Overlap:**
+**Overlap:** 0 characters
 
-**Reasoning:**
+**Reasoning:** the reviews are short and self-contained. Moreover, the maximum content length of the reviews is around 350 characters, so we can use that as our chunk size to ensure that we capture the entire review in one chunk without splitting it. In this case, overlap is not needed. Overlap is useful for continuous documents, but harmful for already atomic datasets.
 
 ---
 
