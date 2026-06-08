@@ -137,6 +137,13 @@ I will use ChatGPT to help implement different parts of the pipeline by giving i
 
 **Milestone 3 — Ingestion and chunking:**
 
+I implemented a document ingestion pipeline that loads 10 separate .txt files, each representing a different CS professor’s Rate My Professor reviews. For chunking, I used a review-based chunking strategy, where each review is treated as a single semantic unit. Instead of splitting text by fixed character size, I applied a soft limit of 800 characters per chunk to prevent long reviews from becoming too large for embedding.Each chunk includes structured fields such as course code, professor name, date, rating, difficulty, and the review text. This ensures that every chunk is self-contained and can be understood independently without surrounding context.
+
+After implementation, I printed sample chunks and verified that:
+- Each chunk contains a complete review
+- No HTML artifacts or broken fragments remain
+- Chunks are readable and meaningful on their own
+
 **Milestone 4 — Embedding and retrieval:**
 
 **Milestone 5 — Generation and interface:**
