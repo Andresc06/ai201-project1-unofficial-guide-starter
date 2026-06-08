@@ -58,11 +58,11 @@ This project focuses on students reviews of CS professors at Austin Community Co
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:**
+**Embedding model:** all-MiniLM-L6-v2 via sentence-transformers
 
-**Top-k:**
+**Top-k:** 5
 
-**Production tradeoff reflection:**
+**Production tradeoff reflection:** If cost wasn’t a concern, I would use a larger embedding model such as OpenAI embeddings because they generally produce better semantic understanding, especially for opinion-based text like student reviews. The tradeoff of course is how expensive and slow they can run, but they usually improve retrieval accuracy and handle refined language better than lightweight models like MiniLM. They can also better capture subtle differences in meaning (e.g., sarcasm or slang) instead of exact keywords.
 
 ---
 
@@ -75,11 +75,11 @@ This project focuses on students reviews of CS professors at Austin Community Co
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | Which professor is most frequently described as having unclear lectures or structure? | |
+| 2 | Which professor is most often described as having very difficult exams? | |
+| 3 | Which professor receives repeated complaints about lack of communication (emails not answered)? | |
+| 4 | Which professor is described as having a very difficult course with heavy workload? | |
+| 5 | What are the 3 most common negative themes across CS professors at ACC? | |
 
 ---
 
@@ -89,9 +89,8 @@ This project focuses on students reviews of CS professors at Austin Community Co
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
-
-2.
+1. Reviews are subjective and often biased, meaning the same professor can be described in completely different ways depending on the student experience.
+2. Some professors may have way more reviews than others, which can bias the vector store toward those professors and make comparisons uneven or skewed.
 
 ---
 
@@ -102,6 +101,23 @@ This project focuses on students reviews of CS professors at Austin Community Co
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+```
+[Rate My Professors pages (ACC CS professors)]
+            ↓
+[Pull reviews + basic cleaning (remove HTML / extra noise)]
+            ↓
+[Break into chunks (each review = one chunk, max ~350 chars)]
+            ↓
+[Create embeddings using sentence-transformers (MiniLM)]
+            ↓
+[Store vectors in FAISS index]
+            ↓
+[Search similar reviews (top 5 results)]
+            ↓
+[Send retrieved reviews to LLM]
+            ↓
+[Generate answer + cite reviews used]
+```
 
 ---
 
@@ -116,6 +132,8 @@ This project focuses on students reviews of CS professors at Austin Community Co
      "I'll use AI to help me code" is not a plan.
      "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
      with my specified chunk size and overlap" is a plan. -->
+
+I will use ChatGPT to help implement different parts of the pipeline by giving it specific sections of my planning.md as context. For example, I will provide my Chunking Strategy section and ask it to implement a chunk_text() function that follows my rule of "one review per chunk with a 350-character limit." I will also give it my Retrieval Approach section when building the vector search step so it uses the correct embedding model and top-k value. For prompt design, I will provide the requirement that the system must only use retrieved reviews and must include citations, and ask it to generate a grounded prompt template. I will verify each output by testing it against my sample documents and checking that it matches the exact constraints defined in my spec.
 
 **Milestone 3 — Ingestion and chunking:**
 
