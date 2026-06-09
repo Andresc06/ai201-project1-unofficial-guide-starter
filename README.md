@@ -218,7 +218,7 @@ All 5 test questions from `planning.md`, run through the full system.
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
 | 1 | Which professor never responds to emails the most? | David Trevino | Correctly named David Trevino, but cited only one course and claimed "no other professor" is mentioned | Partially relevant (correct professor only ranks 3rd/5th; top hit is the mislabeled Fred Kumi file; distances 0.50–0.53) | Partially accurate |
 | 2 | What grading system is Rudi Martinez most criticized for? | "0-or-100" all-or-nothing grading, no partial credit | "0-or-100 grading system… one mistake results in a 0 with no partial credit" | Relevant (all 5 from Rudi, 0.40–0.45) | Accurate |
-| 3 | Why does Rene Polanco grade harshly even when code works? | Deducts points for code not matching his exact style / things not in instructions | "I don't have enough information on that." | Relevant (all 5 from Polanco, 0.34–0.35) | **Inaccurate (false refusal)** |
+| 3 | Why do students say Rene Polanco grades harshly even when their code works? | Deducts points for code not matching his exact style / things not in instructions | Said the reviews don't state the *context* of the harsh grading — only that he "grades harshly" and "doesn't explain mistakes" — so it couldn't explain the "even when code works" part | Relevant (all 5 from Polanco, 0.34–0.35) | **Inaccurate (failed to answer)** |
 | 4 | What recurring complaint about Femi Onabajo's lectures? | Hard to understand (accent); just reads slides | "Lectures are just verbatim readings of PowerPoints/slides…" | Relevant (all 5 from Femi, 0.33–0.36) | Accurate |
 | 5 | Which professor is most often called the best programming professor at ACC? | Murtaza Ally | Called it a "tie" between Murtaza Ally and Fred Kumi | Partially relevant (top hit is mislabeled Fred Kumi file) | Partially accurate |
 
@@ -232,12 +232,24 @@ All 5 test questions from `planning.md`, run through the full system.
 **Question that failed:** "Why do students say Rene Polanco grades harshly even
 when their code works?"
 
-**What the system returned:** "I don't have enough information on that." — a
-refusal, even though many Polanco reviews explicitly explain this (e.g., *"Even
-if your code works exactly as required, you'll be docked if it's not in his
-preferred style"*).
+**What the system returned:** *"The reviews do not specifically state that Rene
+Polanco grades harshly even when the students' code works. They only mention
+that he 'grades harshly' and 'doesn't explain mistakes', but do not provide
+information about the context of the harsh grading."* — in other words, a soft
+refusal. This is wrong: many Polanco reviews explicitly explain the cause (e.g.,
+*"Even if your code works exactly as required, you'll be docked if it's not in
+his preferred style"*).
 
-**Root cause (tied to a specific pipeline stage):** This was a generation-stage failure caused by a retrieval–grounding mismatch. Retrieval correctly identified Rene Polanco, but the top-5 chunks contained only general complaints about harsh grading rather than the specific explanation that students lose points when code works but doesn't match his preferred style. Because the grounding prompt requires strong evidence, the model treated the available context as insufficient and refused instead of answering.
+**Root cause (tied to a specific pipeline stage):** This was a generation-stage
+failure caused by a retrieval–grounding mismatch. Retrieval correctly identified
+Rene Polanco (all five chunks from his file at ~0.34 distance), but the specific
+chunks that name the cause — code works but doesn't match his preferred style —
+did not make the top 5. The chunks that did surface were general "grades
+harshly / doesn't explain mistakes" reviews. The model's own response confirms
+this: it explicitly says it only saw "grades harshly" and "doesn't explain
+mistakes" and lacked the context. Because my grounding prompt requires strong
+evidence, the model treated that context as insufficient and declined rather
+than answering — even though the full answer exists elsewhere in the corpus.
 
 **What I would change to fix it:** increase top-k (e.g., 8–10) so more of
 Polanco's specific style-grading reviews are included, and/or soften the
