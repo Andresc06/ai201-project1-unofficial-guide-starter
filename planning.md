@@ -75,11 +75,11 @@ This project focuses on students reviews of CS professors at Austin Community Co
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | Which professor do students repeatedly say never responds to emails the most? | |
-| 2 | What grading system is Rudi Martinez most criticized for? | |
-| 3 | Why do students say Rene Polanco grades harshly even when their code works? | |
-| 4 | What recurring complaint do students have about Femi Onabajo's lectures? | |
-| 5 | Which professor is most often called the best programming professor at ACC? | |
+| 1 | Which professor do students repeatedly say never responds to emails the most? | David Trevino. Many reviews state "Never responds to emails," "Emails ignored," and "communication nonexistent." |
+| 2 | What grading system is Rudi Martinez most criticized for? | His "0-or-100" all-or-nothing grading: one mistake results in a 0, with no partial credit. |
+| 3 | Why do students say Rene Polanco grades harshly even when their code works? | He deducts points if the code doesn't match his exact preferred style/format, and for things not stated in the instructions. |
+| 4 | What recurring complaint do students have about Femi Onabajo's lectures? | His thick accent makes lectures hard to understand, and he often just reads slides, so students rely on the textbook. |
+| 5 | Which professor is most often called the best programming professor at ACC? | Murtaza Ally. Multiple reviews call him the "best programming professor at ACC" and describe him as funny, caring, and clear. |
 
 ---
 
