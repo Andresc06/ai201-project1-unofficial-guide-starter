@@ -1,5 +1,5 @@
 Course: COSC3365
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Apr 15th, 2026
 Quality: 1.0
 Difficulty: 4.0
@@ -8,7 +8,7 @@ It is impossible to get a good grade on projects in this class. The professor ta
 
 
 Course: ITSE2321
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Dec 17th, 2025
 Quality: 1.0
 Difficulty: 5.0
@@ -17,7 +17,7 @@ By far the worst instructor at ACC. He takes off points for the slightest things
 
 
 Course: COSC4301
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Nov 5th, 2025
 Quality: 3.0
 Difficulty: 5.0
@@ -26,7 +26,7 @@ His class will humble you, but you can do it. Follow instructions exactly. Anyth
 
 
 Course: COSC3365
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Oct 24th, 2025
 Quality: 1.0
 Difficulty: 5.0
@@ -35,7 +35,7 @@ One of the least helpful professors at ACC. Takes forever to grade. Tests on thi
 
 
 Course: COSC1336
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Mar 15th, 2025
 Quality: 1.0
 Difficulty: 5.0
@@ -44,7 +44,7 @@ Online class was just a textbook. No slides, no lectures, no chapter guidance. E
 
 
 Course: COSC4301
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Jan 24th, 2025
 Quality: 4.0
 Difficulty: 4.0
@@ -53,7 +53,7 @@ Not an easy professor, but I learned more from him than any other class. His no�
 
 
 Course: ITSE2321
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Dec 21st, 2024
 Quality: 4.0
 Difficulty: 3.0
@@ -62,7 +62,7 @@ Harder than other CS professors, but in a good way. Tests understanding in unant
 
 
 Course: COSC4301
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Nov 19th, 2024
 Quality: 1.0
 Difficulty: 4.0
@@ -71,7 +71,7 @@ Terrible teaching style. Lectures for hours with little help. Constantly says �
 
 
 Course: COSC1336
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Nov 18th, 2024
 Quality: 1.0
 Difficulty: 5.0
@@ -80,7 +80,7 @@ Not helpful. Refers you to tutors. Doesn’t respond to emails. Would not take a
 
 
 Course: ITSE2321
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Oct 2nd, 2024
 Quality: 1.0
 Difficulty: 5.0
@@ -89,7 +89,7 @@ Not helpful. Refers you to tutors. Complains about other professors. Just lectur
 
 
 Course: ITSE2321
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Sep 21st, 2024
 Quality: 1.0
 Difficulty: 5.0
@@ -98,7 +98,7 @@ Worst professor. Just lectures, no extra help.
 
 
 Course: ITSE2321
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Sep 21st, 2024
 Quality: 5.0
 Difficulty: 1.0
@@ -107,7 +107,7 @@ Complains about other professors. Thinks he’s the only expert. Not effective o
 
 
 Course: COSC1336
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 17th, 2024
 Quality: 1.0
 Difficulty: 5.0
@@ -116,7 +116,7 @@ If you have no coding experience, don’t take his class. Unfair grader, unclear
 
 
 Course: COSC3365
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Mar 7th, 2024
 Quality: 1.0
 Difficulty: 5.0
@@ -125,7 +125,7 @@ Horrendous teaching style. Retaliatory when asked questions. Instructions unclea
 
 
 Course: COSC4301
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Feb 23rd, 2024
 Quality: 1.0
 Difficulty: 5.0
@@ -134,7 +134,7 @@ Withholds assignment information. Drops vague hints during long lectures. Will f
 
 
 Course: COSC4301
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Nov 18th, 2023
 Quality: 4.0
 Difficulty: 5.0
@@ -143,7 +143,7 @@ Old‑school and no‑nonsense. You will be pushed to your limits but you will l
 
 
 Course: ITSE2309
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Dec 22nd, 2022
 Quality: 4.0
 Difficulty: 3.0
@@ -152,7 +152,7 @@ Better organized than other instructors. Feedback rare. Didn’t round 89.7. Asy
 
 
 Course: ITSE1311
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Sep 12th, 2022
 Quality: 1.0
 Difficulty: 5.0
@@ -161,7 +161,7 @@ Coding lectures were just reading PPTs and discussing where points would be take
 
 
 Course: ITSE2321
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Aug 12th, 2022
 Quality: 2.0
 Difficulty: 5.0
@@ -170,7 +170,7 @@ Never responded to emails. Minimal feedback. Would not take again.
 
 
 Course: ITSE2309
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Aug 2nd, 2022
 Quality: 2.0
 Difficulty: 4.0
@@ -178,7 +178,7 @@ Review:
 Explains things once and expects you to get it. Sink‑or‑swim style. Thick accent.
 
 Course: ITSE2309
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 23rd, 2022
 Quality: 4.0
 Difficulty: 3.0
@@ -187,7 +187,7 @@ He's not perfect for sure, but his classes are clearly structured, and most of t
 
 
 Course: ITSE2321
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 9th, 2022
 Quality: 5.0
 Difficulty: 4.0
@@ -196,7 +196,7 @@ Wealth of professional and academic experience in software engineering. Best int
 
 
 Course: COSC1337
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Feb 28th, 2022
 Quality: 1.0
 Difficulty: 4.0
@@ -205,7 +205,7 @@ Worst professor I've ever had. Took two weeks to reply to a question I asked bef
 
 
 Course: ITSE2309
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Dec 13th, 2021
 Quality: 5.0
 Difficulty: 1.0
@@ -214,7 +214,7 @@ Homework based on readings. Labs match textbook examples. Exams tough if you don
 
 
 Course: ITSE2321
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Oct 18th, 2021
 Quality: 1.0
 Difficulty: 4.0
@@ -223,7 +223,7 @@ Negative responses to questions or doesn’t answer. Talks about getting fired f
 
 
 Course: ITSE1345
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Jul 11th, 2021
 Quality: 4.0
 Difficulty: 4.0
@@ -232,7 +232,7 @@ Knows everything about Oracle PL/SQL. Old‑school professor who makes you work 
 
 
 Course: COSC1336
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Jun 19th, 2021
 Quality: 1.0
 Difficulty: 5.0
@@ -241,7 +241,7 @@ Make sure you have coding experience or you will fail the exams. Tutors know wha
 
 
 Course: ITSE2309
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Jun 11th, 2021
 Quality: 1.0
 Difficulty: 3.0
@@ -250,7 +250,7 @@ Got a system error on first lab, emailed him three times, no response. Failed th
 
 
 Course: ITSE1345
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 22nd, 2021
 Quality: 1.0
 Difficulty: 3.0
@@ -259,7 +259,7 @@ Did not return assignment grades for up to a month. Exams based on programming a
 
 
 Course: ITSE1311
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 22nd, 2021
 Quality: 1.0
 Difficulty: 3.0
@@ -268,7 +268,7 @@ APT course. Most professors don’t assist with APT courses. Kumi was no differe
 
 
 Course: COSC1336
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 16th, 2021
 Quality: 1.0
 Difficulty: 5.0
@@ -277,7 +277,7 @@ Does not teach Python. No coding guidelines. Harsh grading. Projects easy only i
 
 
 Course: COSC1336
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Dec 15th, 2020
 Quality: 5.0
 Difficulty: 2.0
@@ -286,7 +286,7 @@ Learned more from him than any other CS class at ACC. Respected and fair. Highly
 
 
 Course: COSC1320
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Dec 15th, 2020
 Quality: 5.0
 Difficulty: 3.0
@@ -295,7 +295,7 @@ Best programming professor at ACC, hands down.
 
 
 Course: ITSC2337
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Dec 15th, 2020
 Quality: 5.0
 Difficulty: 4.0
@@ -304,7 +304,7 @@ Much better than other web programming instructors. Cares about students. Better
 
 
 Course: COSC1336
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Dec 14th, 2020
 Quality: 1.0
 Difficulty: 4.0
@@ -313,7 +313,7 @@ Tough grader, strict policies, little feedback. Only professor available. Would 
 
 
 Course: ITSE2321
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Nov 30th, 2020
 Quality: 5.0
 Difficulty: 2.0
@@ -322,7 +322,7 @@ Accent sometimes hard to understand, but lectures cover everything needed. Power
 
 
 Course: ITSE2309
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Nov 9th, 2020
 Quality: 1.0
 Difficulty: 4.0
@@ -331,7 +331,7 @@ Only good if you already know databases. Tests extremely difficult. One test req
 
 
 Course: COSC1336
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Sep 27th, 2020
 Quality: 1.0
 Difficulty: 2.0
@@ -340,7 +340,7 @@ Degrading, rude, hard to understand.
 
 
 Course: COSC1336
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Sep 22nd, 2020
 Quality: 2.0
 Difficulty: 4.0
@@ -349,7 +349,7 @@ Tutors more helpful than him. Explanations unclear. Claims instructions include 
 
 
 Course: ITSE2309
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Aug 9th, 2020
 Quality: 5.0
 Difficulty: 3.0
@@ -357,7 +357,7 @@ Review:
 Great teacher. One very difficult test question, rest normal. Replaced lowest test grade with highest.
 
 Course: ITSE1311
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Feb 24th, 2020
 Quality: 1.0
 Difficulty: 4.0
@@ -366,7 +366,7 @@ Mean to the students. Not recommended. Stay away from his classes. You won't lea
 
 
 Course: COSC1336
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 27th, 2019
 Quality: 4.0
 Difficulty: 3.0
@@ -375,7 +375,7 @@ Gives many opportunities to ask questions. Goes through example programs which a
 
 
 Course: COSC1336
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 20th, 2019
 Quality: 5.0
 Difficulty: 3.0
@@ -384,7 +384,7 @@ Highly recommend. Well‑experienced and prepares you for the real world. Know d
 
 
 Course: ITSE1311
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 17th, 2019
 Quality: 1.0
 Difficulty: 3.0
@@ -393,7 +393,7 @@ Awful class. Learned everything on my own. No lecture material and no feedback. 
 
 
 Course: COSC1315
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Mar 15th, 2019
 Quality: 1.0
 Difficulty: 5.0
@@ -402,7 +402,7 @@ Lectures monotonous. Counted off for things I didn’t do. Reached out for corre
 
 
 Course: COSC1315
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Feb 21st, 2019
 Quality: 5.0
 Difficulty: 3.0
@@ -411,7 +411,7 @@ Great professor. Study outside class and ask questions.
 
 
 Course: COSC1315
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Feb 21st, 2019
 Quality: 5.0
 Difficulty: 4.0
@@ -420,7 +420,7 @@ Accessible in office hours and wants you to understand everything. Stay on top o
 
 
 Course: ITSE1311
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Jan 2nd, 2019
 Quality: 5.0
 Difficulty: 4.0
@@ -429,7 +429,7 @@ Beginning Web Programming was challenging but good. Make sure you have some prog
 
 
 Course: ITSC1311
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Jan 2nd, 2019
 Quality: 3.0
 Difficulty: 4.0
@@ -438,7 +438,7 @@ Online book required. Assignments build on each other. Easy grader on assignment
 
 
 Course: ITSE2321
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Dec 16th, 2018
 Quality: 1.0
 Difficulty: 5.0
@@ -447,7 +447,7 @@ Talks constantly about how much he was paid at previous jobs. Class boring and s
 
 
 Course: ITSC2337
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Dec 9th, 2018
 Quality: 5.0
 Difficulty: 4.0
@@ -456,7 +456,7 @@ Hard classes but job‑relevant. Recent industry experience. Funny stories. Leni
 
 
 Course: ITSE1311
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Nov 6th, 2018
 Quality: 1.0
 Difficulty: 2.0
@@ -465,7 +465,7 @@ Online class with vague instructions. Takes 3+ weeks to grade or respond. Asked 
 
 
 Course: ITSE1311
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Oct 12th, 2018
 Quality: 2.0
 Difficulty: 4.0
@@ -474,7 +474,7 @@ Made the class harder than necessary. Takes a week to answer emails. Assignment 
 
 
 Course: ITSE1345
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 24th, 2018
 Quality: 5.0
 Difficulty: 3.0
@@ -483,7 +483,7 @@ Lectures well organized. Wants students to participate. Uses code examples tied 
 
 
 Course: ITSE2321
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 24th, 2018
 Quality: 4.0
 Difficulty: 3.0
@@ -492,7 +492,7 @@ Teaching style based on industry standards. Explains coding examples clearly. La
 
 
 Course: ITSE2309
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 24th, 2018
 Quality: 4.0
 Difficulty: 3.0
@@ -501,7 +501,7 @@ Accent sometimes difficult, but he tries hard to communicate clearly. Very appro
 
 
 Course: COSC1336
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 7th, 2018
 Quality: 4.0
 Difficulty: 3.0
@@ -510,7 +510,7 @@ Concerned with students understanding fundamentals. Adjusts pace based on class 
 
 
 Course: COSC1337
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Jan 3rd, 2018
 Quality: 1.0
 Difficulty: 5.0
@@ -518,7 +518,7 @@ Review:
 He is a poor public speaker.
 
 Course: ITSE1311
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Nov 6th, 2018
 Quality: 1.0
 Difficulty: 2.0
@@ -527,7 +527,7 @@ I took this class online. The instructions for assignments were lacking in detai
 
 
 Course: ITSE1311
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Oct 12th, 2018
 Quality: 2.0
 Difficulty: 4.0
@@ -536,7 +536,7 @@ This professor made the class much harder than it needed to be. Takes a week to 
 
 
 Course: ITSE1345
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 24th, 2018
 Quality: 5.0
 Difficulty: 3.0
@@ -545,7 +545,7 @@ Lectures well organized. Wants students to participate to ensure understanding. 
 
 
 Course: ITSE2321
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 24th, 2018
 Quality: 4.0
 Difficulty: 3.0
@@ -554,7 +554,7 @@ Teaching style based on industry standards. Explains coding examples clearly. La
 
 
 Course: ITSE2309
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 24th, 2018
 Quality: 4.0
 Difficulty: 3.0
@@ -563,7 +563,7 @@ Accent sometimes difficult, but he tries hard to communicate clearly. Very appro
 
 
 Course: COSC1336
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 7th, 2018
 Quality: 4.0
 Difficulty: 3.0
@@ -572,7 +572,7 @@ Concerned with students understanding fundamentals. Adjusts pace based on class 
 
 
 Course: COSC1337
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Jan 3rd, 2018
 Quality: 1.0
 Difficulty: 5.0
@@ -581,7 +581,7 @@ He is a poor public speaker.
 
 
 Course: ITSE2309
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Dec 9th, 2018
 Quality: 5.0
 Difficulty: 4.0
@@ -590,7 +590,7 @@ Taken several of his classes. They’re hard and require a lot of work, but ever
 
 
 Course: ITSE1311
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Nov 6th, 2018
 Quality: 1.0
 Difficulty: 2.0
@@ -599,7 +599,7 @@ Online class with vague instructions. Takes weeks to respond. Asked a question t
 
 
 Course: ITSE1311
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Oct 12th, 2018
 Quality: 2.0
 Difficulty: 4.0
@@ -608,7 +608,7 @@ Made the class harder than necessary. Takes a week to answer emails. Assignment 
 
 
 Course: ITSE1345
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 24th, 2018
 Quality: 5.0
 Difficulty: 3.0
@@ -617,7 +617,7 @@ Lectures well organized. Wants students to participate. Uses code examples tied 
 
 
 Course: ITSE2321
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 24th, 2018
 Quality: 4.0
 Difficulty: 3.0
@@ -626,7 +626,7 @@ Teaching style based on industry standards. Explains coding examples clearly. La
 
 
 Course: ITSE2309
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 24th, 2018
 Quality: 4.0
 Difficulty: 3.0
@@ -635,7 +635,7 @@ Accent sometimes difficult, but he tries hard to communicate clearly. Very appro
 
 
 Course: COSC1336
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 7th, 2018
 Quality: 4.0
 Difficulty: 3.0
@@ -644,7 +644,7 @@ Concerned with students understanding fundamentals. Adjusts pace based on class 
 
 
 Course: COSC1337
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Jan 3rd, 2018
 Quality: 1.0
 Difficulty: 5.0
@@ -653,7 +653,7 @@ He is a poor public speaker.
 
 
 Course: ITSE2309
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Dec 9th, 2018
 Quality: 5.0
 Difficulty: 4.0
@@ -662,7 +662,7 @@ Taken several of his classes. They’re hard and require a lot of work, but ever
 
 
 Course: ITSE1311
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Nov 6th, 2018
 Quality: 1.0
 Difficulty: 2.0
@@ -671,7 +671,7 @@ Online class with vague instructions. Takes weeks to respond. Asked a question t
 
 
 Course: ITSE1311
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Oct 12th, 2018
 Quality: 2.0
 Difficulty: 4.0
@@ -680,7 +680,7 @@ Made the class harder than necessary. Takes a week to answer emails. Assignment 
 
 
 Course: ITSE1345
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 24th, 2018
 Quality: 5.0
 Difficulty: 3.0
@@ -689,7 +689,7 @@ Lectures well organized. Wants students to participate. Uses code examples tied 
 
 
 Course: ITSE2321
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 24th, 2018
 Quality: 4.0
 Difficulty: 3.0
@@ -697,7 +697,7 @@ Review:
 Teaching style based on industry standards. Explains coding examples clearly. Labs and homework not difficult if you read the book. Exams based on the book.
 
 Course: COSC1336
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Apr 26th, 2014
 Quality: 4.0
 Difficulty: 2.0
@@ -706,7 +706,7 @@ Has a thick accent — must pay attention. Doesn’t use the same terminology as
 
 
 Course: ITNW2405
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Feb 24th, 2014
 Quality: 1.0
 Difficulty: 3.0
@@ -715,7 +715,7 @@ Unorganized chaos. Doesn’t know how to teach and doesn’t make sense. Feels l
 
 
 Course: ITNW1325
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Dec 16th, 2013
 Quality: 1.5
 Difficulty: 3.0
@@ -724,7 +724,7 @@ Very nice guy, but very unhelpful. Hard to understand him, and tests were very h
 
 
 Course: ITSC1307
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Nov 21st, 2013
 Quality: 2.0
 Difficulty: 2.0
@@ -733,7 +733,7 @@ Unique teaching style. Writes rough outlines of scripts with many syntax errors 
 
 
 Course: ITNW2405001
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 1st, 2013
 Quality: 1.0
 Difficulty: 1.0
@@ -742,7 +742,7 @@ Absolute worst professor I’ve ever had. Doesn’t teach anything. Faked my way
 
 
 Course: COSC1312
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Sep 18th, 2012
 Quality: 2.0
 Difficulty: 5.0
@@ -751,7 +751,7 @@ Very hard to understand accent. Speeds through lectures, making note‑taking di
 
 
 Course: COSC1315
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 23rd, 2012
 Quality: 4.5
 Difficulty: 3.0
@@ -760,7 +760,7 @@ Once you get past his accent, he’s funny, smart, and articulate. Will make you
 
 
 Course: COSC1315
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Aug 10th, 2011
 Quality: 3.5
 Difficulty: 1.0
@@ -769,7 +769,7 @@ Often late, leaves class to take phone calls, borrows students’ books and penc
 
 
 Course: COSC1315
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 18th, 2011
 Quality: 4.5
 Difficulty: 2.0
@@ -778,7 +778,7 @@ Good teacher, hard to understand but helps each student individually. Often late
 
 
 Course: ITNW2405
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 9th, 2011
 Quality: 2.0
 Difficulty: 2.0
@@ -787,7 +787,7 @@ Easy A. Only 1–2 tests. Multiple‑choice questions copied from the textbook. 
 
 
 Course: ITNW2321
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: May 9th, 2011
 Quality: 1.0
 Difficulty: 5.0
@@ -796,7 +796,7 @@ Absolutely useless. Hard to understand. Always late and unprepared. Borrows stud
 
 
 Course: ITSE1300
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Jan 19th, 2011
 Quality: 3.0
 Difficulty: 3.0
@@ -805,7 +805,7 @@ Good but hard to understand.
 
 
 Course: ITNW1325
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Aug 2nd, 2010
 Quality: 4.5
 Difficulty: 2.0
@@ -814,7 +814,7 @@ Thick accent but great teacher. If you apply yourself and read the textbook, you
 
 
 Course: COSC1315
-Professor: Femi Onabajo
+Professor: Fred Kumi
 Date: Jun 20th, 2010
 Quality: 4.0
 Difficulty: 2.0
