@@ -110,13 +110,16 @@ This project focuses on students reviews of CS professors at Austin Community Co
             ↓
 [Create embeddings using sentence-transformers (MiniLM)]
             ↓
-[Store vectors in FAISS index]
+[Store vectors + metadata in ChromaDB (cosine distance)]
             ↓
-[Search similar reviews (top 5 results)]
+     [User query]
             ↓
-[Send retrieved reviews to LLM]
+[Retrieve top-5 relevant chunks]
             ↓
-[Generate answer + cite reviews used]
+[Grounded prompt with retrieved reviews + citations]
+            ↓
+[LLM generates answer with citations]
+
 ```
 
 ---
