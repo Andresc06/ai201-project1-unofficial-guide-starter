@@ -75,11 +75,11 @@ This project focuses on students reviews of CS professors at Austin Community Co
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | Which professor is most frequently described as having unclear lectures or structure? | |
-| 2 | Which professor is most often described as having very difficult exams? | |
-| 3 | Which professor receives repeated complaints about lack of communication (emails not answered)? | |
-| 4 | Which professor is described as having a very difficult course with heavy workload? | |
-| 5 | What are the 3 most common negative themes across CS professors at ACC? | |
+| 1 | Which professor has unclear lectures or disorganized course structure? | |
+| 2 | Which professor is described as having very difficult exams? | |
+| 3 | Which professor does not respond to emails or lacks communication? | |
+| 4 | Which professor is described as having a very heavy workload? | |
+| 5 | Which professor is most frequently described as being unfair in grading? | |
 
 ---
 
@@ -145,5 +145,7 @@ After implementation, I printed sample chunks and verified that:
 - Chunks are readable and meaningful on their own
 
 **Milestone 4 — Embedding and retrieval:**
+
+I gave the AI my Retrieval Approach section and asked it to embed my chunks with all-MiniLM-L6-v2 and store them in ChromaDB with source and position metadata, plus a retrieve() function that returns the top-5 matches. I set the collection to cosine distance so the scores match the 0–2 scale from the instructions. I tested retrieval on 3 of my evaluation questions and checked that the returned reviews actually matched each one. The "emails" questions returned clearly relevant reviews, but the "difficult exams" question pulled some generally negative reviews instead of exam-specific ones.
 
 **Milestone 5 — Generation and interface:**
