@@ -5,9 +5,9 @@ build_vector_store()
 
 # Step 2: 3 of the 5 evaluation questions from planning.md.
 test_queries = [
-    "Which professor has unclear lectures or disorganized course structure?",
-    "Which professor is described as having very difficult exams?",
-    "Which professor does not respond to emails or lacks communication?"
+    "Which professor do students repeatedly say never responds to emails the most?",
+    "What grading system is Rudi Martinez most criticized for?",
+    "Why do students say Rene Polanco grades harshly even when their code works?",
 ]
 
 # Step 3: retrieve and inspect.

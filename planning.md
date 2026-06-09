@@ -75,11 +75,11 @@ This project focuses on students reviews of CS professors at Austin Community Co
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | Which professor has unclear lectures or disorganized course structure? | |
-| 2 | Which professor is described as having very difficult exams? | |
-| 3 | Which professor does not respond to emails or lacks communication? | |
-| 4 | Which professor is described as having a very heavy workload? | |
-| 5 | Which professor is most frequently described as being unfair in grading? | |
+| 1 | Which professor do students repeatedly say never responds to emails the most? | |
+| 2 | What grading system is Rudi Martinez most criticized for? | |
+| 3 | Why do students say Rene Polanco grades harshly even when their code works? | |
+| 4 | What recurring complaint do students have about Femi Onabajo's lectures? | |
+| 5 | Which professor is most often called the best programming professor at ACC? | |
 
 ---
 
@@ -149,3 +149,5 @@ After implementation, I printed sample chunks and verified that:
 I gave the AI my Retrieval Approach section and asked it to embed my chunks with all-MiniLM-L6-v2 and store them in ChromaDB with source and position metadata, plus a retrieve() function that returns the top-5 matches. I set the collection to cosine distance so the scores match the 0–2 scale from the instructions. I tested retrieval on 3 of my evaluation questions and checked that the returned reviews actually matched each one. The "emails" questions returned clearly relevant reviews, but the "difficult exams" question pulled some generally negative reviews instead of exam-specific ones.
 
 **Milestone 5 — Generation and interface:**
+
+I gave the AI my Evaluation Plan and asked it to generate grounded answers that only use the retrieved reviews as context, with citations. I tested the same 3 questions and found that the generated answers were mostly accurate but sometimes included information not present in the retrieved reviews, indicating some hallucination. I also built a simple Gradio interface to allow interactive querying and verified that it correctly displays answers and citations based on user input.
