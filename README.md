@@ -97,6 +97,53 @@ cost wasn't a constraint, I would consider a larger hosted embedding model
 
 ---
 
+## Retrieval Test Results
+
+I embed the query with the same model and ask ChromaDB for the top-5 nearest
+chunks. Below are three of my evaluation queries with the sources and distances
+of their top results.
+
+**Query: "What grading system is Rudi Martinez most criticized for?"**
+```
+[0.402] Professor Rudi Martinez.txt (pos 27)
+[0.415] Professor Rudi Martinez.txt (pos 3)
+[0.432] Professor Rudi Martinez.txt (pos 43)
+[0.449] Professor Rudi Martinez.txt (pos 40)
+[0.452] Professor Rudi Martinez.txt (pos 9)
+```
+**Why these are relevant:** all five chunks come from the correct professor and
+sit at low cosine distances (0.40–0.45). They contain the exact complaint the
+query targets — reviews describing his "0-or-100" all-or-nothing grading. This
+is textbook good retrieval: on-topic, on-source, tightly clustered.
+
+**Query: "What recurring complaint do students have about Femi Onabajo's lectures?"**
+```
+[0.330] Professor Femi Onabajo.txt (pos 1)
+[0.342] Professor Femi Onabajo.txt (pos 23)
+[0.345] Professor Femi Onabajo.txt (pos 64)
+[0.362] Professor Femi Onabajo.txt (pos 31)
+[0.363] Professor Femi Onabajo.txt (pos 35)
+```
+**Why these are relevant:** the lowest distances in the whole evaluation
+(0.33–0.36) and all from the right professor. The chunks describe lectures that
+are "just reading slides," matching the query's intent even though the query
+never used the word "slides" — semantic search found the meaning, not the exact
+words.
+
+**Query: "Which professor never responds to emails the most?"**
+```
+[0.501] Professor Fred Kumi.txt (pos 22)
+[0.519] Professor Murtaza Ally.txt (pos 36)
+[0.529] Professor David Trevino.txt (pos 31)
+[0.532] Professor Adrian Edmundson.txt (pos 13)
+[0.533] Professor David Trevino.txt (pos 11)
+```
+This retrieval was weaker — distances above 0.5 and a mix of sources. David
+Trevino (the correct answer) appears only at ranks 3 and 5, and the top hit is
+the mislabeled `Fred Kumi` file.
+
+---
+
 ## Grounded Generation
 
 **System prompt grounding instruction:**
@@ -113,6 +160,53 @@ that." Every claim in your answer must be supported by the reviews provided.
 unique source filenames of the chunks that were actually retrieved and returns
 them alongside the answer. This guarantees every response is accompanied by the
 real documents it drew from, even if the model forgets to cite them.
+
+### Example responses
+
+**Example 1 — in-scope, accurate, with attribution:**
+> **Q:** What grading system is Rudi Martinez most criticized for?
+> **A:** Rudi Martinez is most criticized for his 0-or-100 grading system,
+> described in multiple reviews as nerve-wracking — one mistake results in a 0
+> with no partial credit.
+> **Retrieved from:** Professor Rudi Martinez.txt
+
+**Example 2 — in-scope, accurate, with attribution:**
+> **Q:** What recurring complaint do students have about Femi Onabajo's lectures?
+> **A:** Students repeatedly complain that his lectures are just verbatim
+> readings of PowerPoint or textbook slides with little added explanation
+> (e.g., INTW1325, ITSY1300, ITNW2321).
+> **Retrieved from:** Professor Femi Onabajo.txt
+
+**Example 3 — out-of-scope query, correct refusal:**
+> **Q:** What is the best dining hall on campus?
+> **A:** I don't have enough information on that.
+
+The third example is the key grounding test: the documents contain only
+professor reviews, so the system correctly declined instead of inventing a
+dining-hall answer from the model's training data.
+
+---
+
+## Query Interface
+
+The interface is a **Gradio web app** (`app.py`).
+
+- **Input field:** "Your question" — a free-text box for the student's question.
+- **Output fields:** "Answer" (the grounded response) and "Retrieved from" (the
+  list of source documents the answer drew from).
+
+Run it with `python app.py`, then open http://localhost:7860.
+
+**Sample interaction transcript:**
+```
+Your question:  What grading system is Rudi Martinez most criticized for?
+
+Answer:         Rudi Martinez is most criticized for his 0-or-100 grading
+                system, described in multiple reviews as nerve-wracking — one
+                mistake results in a 0 with no partial credit.
+
+Retrieved from: • Professor Rudi Martinez.txt
+```
 
 ---
 
