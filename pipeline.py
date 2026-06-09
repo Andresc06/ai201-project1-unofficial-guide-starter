@@ -21,6 +21,7 @@ def load_all_documents(folder_path):
 
 def chunk_text(text, source, max_size=800):
     chunks = []
+    position = 0  # index of this chunk within its source document
 
     reviews = text.split("Course:")
 
@@ -36,13 +37,17 @@ def chunk_text(text, source, max_size=800):
             for i in range(0, len(r), max_size):
                 chunks.append({
                     "source": source,
+                    "position": position,
                     "text": r[i:i+max_size]
                 })
+                position += 1
         else:
             chunks.append({
                 "source": source,
+                "position": position,
                 "text": r
             })
+            position += 1
 
     return chunks
 
@@ -58,19 +63,25 @@ def print_random_chunks(chunks, n=5):
         print("\n" + "-" * 80 + "\n")
 
 
+def get_all_chunks(folder_path="./documents"):
+    # Load every document and return one flat list of chunks.
+    documents = load_all_documents(folder_path)
+
+    all_chunks = []
+    for doc in documents:
+        doc_chunks = chunk_text(doc["text"], doc["source"])
+        all_chunks.extend(doc_chunks)
+
+    return all_chunks
+
+
 # ---------------- MAIN ----------------
 
-folder_path = "./documents"
+if __name__ == "__main__":
+    documents = load_all_documents("./documents")
+    all_chunks = get_all_chunks("./documents")
 
-documents = load_all_documents(folder_path)
+    print(f"TOTAL DOCUMENTS: {len(documents)}")
+    print(f"TOTAL CHUNKS: {len(all_chunks)}\n")
 
-all_chunks = []
-
-for doc in documents:
-    doc_chunks = chunk_text(doc["text"], doc["source"])
-    all_chunks.extend(doc_chunks)
-
-print(f"TOTAL DOCUMENTS: {len(documents)}")
-print(f"TOTAL CHUNKS: {len(all_chunks)}\n")
-
-print_random_chunks(all_chunks, n=5)
+    print_random_chunks(all_chunks, n=5)
